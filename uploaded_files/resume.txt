@@ -1,0 +1,7350 @@
+JAYESH RAJPUT
++91 8104059695 ⋄ Pune, India
+jayesh0@hotmail.com ⋄ LinkedIn ⋄ Github
+
+OBJECTIVE
+
+Cloud practitioner, seeking internship roles in Data Analytics, Cloud Computing, and Software Development.
+
+EDUCATION
+
+B.Tech in Electronics and Telecommunication (Pursuing)
+MIT Academy of Engineering, 8.03 CGPA
+Relevant Coursework: Cloud Computing, Java Full stack Development
+Data Structures and Algorithms using C.
+
+SKILLS
+
+Expected Aug 2024
+
+Programming Languages
+Tools and Technologies
+Soft Skills
+
+C/C++, Core Java, Python, JavaScript
+AWS, Object Oriented Programming, Linux, GIT, Github, Power BI, SQL
+Analytical Thinking, Leadership
+
+July 2022 - Sept 2022
+Virtual, India
+
+July 2022 - Aug 2022
+Remote, India
+
+EXPERIENCE
+
+Student Intern
+Vois
+
+• Built NLP based Abstractive Text Summarization Model
+• Applied Python, Flask, HTML, CSS Git and Github.
+
+Student Trainee IPR - Beginner
+MIT Academy of Engineering
+
+• Learnt about Intellectual Property Rights, Copyrights.
+• Learnt about Patents and the process of filing it.
+• Studied various acts regarding Patents and Copyrights.
+
+PROJECTS
+
+NLP based Web Application
+Built an NLP based abstractive text summariszation model. (Github Repository)
+
+Object Detection Using Faster RCNN (In Progress)
+Built a Deep Learning model that detects the object using various algorithms like
+ANN, CNN, RCNN and compared their efficiency. We used Cat vs Dog dataset to
+train and test the model.
+
+EXTRA-CURRICULAR ACTIVITIES
+
+• TY Class Representative in Student Council
+
+• Student Representative in ETSA (ETC Student Association)
+
+• Corporate Relations Training and Placement Coordinator SEE
+
+CERTIFICATIONS AND TRAINING
+
+AWS Certified Cloud Practitioner
+Microsoft Certified: Azure Fundamentals
+Microsoft Certified: AI Fundamentals
+Microsoft Certified: Data Fundamentals
+Google Cloud Certified Digital Leader
+
+Zensar ESD Program
+ICT Academy Data Analytics using Power BI
+FUEL Java Full Stack Development
+Udacity AWS Machine Learning Foundation
+
+Jayesh Rajput
+B.Tech. – E&TC Engineering
+   MITAOE 
+Ph: +91 8104059695
+
+Email :
+
+jayeshrajput.in@gmail.com
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+
+To enthusiastically work for an organization for its growth. Willing to contribute towards the
+organizational goals to enhance my technical skills.
+
+KEY EXPERTISE/SKILLS 
+
+Core Java, Python, SQL, HTML, CSS, AWS, Linux, GIT, Github, Power BI, MYSQL, OOP, Figma,
+Analytical Thinking, Design Thinking, Leadership, Collaborative Approach
+
+EDUCATION 
+
+Pursuing B.Tech from MIT Academy Of ENGINEERING(MITAOE)
+
+2024
+
+B.TECH Electronics and Telecommunication ENGINEERING | CGPA -8.24
+
+L.D Sonawane College of Arts, Commerce and Science , Kalyan
+
+                                                                                                                                 2020 
+
+12th | HSC | PERCENTAGE 70
+
+New Shri Vani Vidhya Shala High School, Kalyan
+
+                                                                                                                            2018   
+
+10th | SSC | PERCENTAGE 80
+
+PROJECTS 
+
+Text Summarization by using NLP
+
+2 Aug 2022 - 28 Sep 2022
+
+An NLP based abstractive text summariszation model. (Github Repository)
+
+Key Skills: |Python|NLP| Flask|Spicy|
+
+In this project, I built a webapp in which user can input a text and they will get a summarized form of text. Here I've
+used NLP (Natural Language Processing) and Python's Spicy and Flask libraries. I've also used HTML and CSS to
+design the web page
+
+Object Detection Using Faster RCNN (In Progress)
+
+1st Aug 2022 - 31st Dec 2023
+
+Built a Deep Learning model that detects the object using various algorithms like
+ANN, CNN, RCNN and compared their efficiency. We used Cat vs Dog dataset to
+train and test the model.
+
+Key Skill: Deep Learning | Python | Object Detection| Object Recognition | Fast-RCNN |
+
+ASSESSMENTS/CERTIFICATIONS 
+
+AWS Certified Cloud Practitioner
+
+Microsoft Certified: Azure Fundamentals
+
+Microsoft Certified: Data Fundamentals
+
+Microsoft Certified: AI Fundamentals
+
+Google Cloud Certified Digital Leader
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+                                                                                                 
+ 
+ 
+ 
+ 
+                               
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+Udacity AWS Machine Learning Foundation
+
+ICT Academy Data Analytics using Power BI
+
+Zensar ESD Program
+
+EXTRA CURRICULAR ACTIVITIES 
+
+• TY Class Representative in Student Council
+
+• Student Representative in ETSA (ETC Student Association)
+
+• Corporate Relations Training and Placement Coordinator SEE
+
+• Won Trophy for Yellow House in Kabaddi Match in 10th Standard
+
+• First Place in relay race during Sports day in 10th Standard
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Kabaddi
+
+Designing UI for Websites and Mobile Applications
+
+Reading Self help book
+
+WEB LINKS/IMs 
+
+Github    - https://github.com/jayeshrajpoot
+
+LinkedIn - 
+
+https://www.linkedin.com/in/rajputjayesh/
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address –
+
+Prem Sai Apartment Alandi Moshi Road Pune Maharashtra 412105
+
+Email –
+
+jayeshrajput.in@gmail.com
+
+  |  
+
+jayesh.rajput@mitaoe.ac.in
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address – 
+
+301, Mahaveer Heavens, Near Agrawal College, Gandhari, Kalyan West
+
+Contact Details - 8104059695
+
+KE/SKILLS 
+
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+                  HRUTUJA RAJENDRA HIWARKAR 
+
+                                          B.Tech. – Information Technology   
+                                                                                       -MITAOE 
+                                                                          Ph : +91-7517060949  
+                                                  Email : hrutuja.hiwarkar@mitaoe.ac.in 
+                                                                   Pune,  Maharashtra,  India  -  412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+A self motivated and result oriented IT engineer with strong and positive mindset looking to kickstart 
+my career in IT industry in data science domain that can help me realize my potential and eager to 
+learn, grow, explore new things.  Seeking for challenging opportunity and goal aspirations of your 
+esteemed organization by showcasing my skills and participating in each and every activities. 
+
+KEY EXPERTISE / SKILLS 
+
+Data Science 
+
+Artificial Intelligence 
+
+Machine Learning 
+
+DSA 
+
+CPP 
+
+DBMS 
+
+C  Programming 
+
+Python 
+
+Big data 
+
+Linux OS 
+
+Computer Network 
+
+EDUCATION 
+
+MIT  Academy  Of  Engineering (MITAOE) 
+
+B.Tech – Information Technology – MITAOE    |    CGPA : 8.92 / 10.00 
+
+Shivaji  Kanishta  Vidnyan  Mahavidyala, Gadchiroli 
+
+HSC   |    HSC – Science   |    State  Board    |   Percentage : 84.92 / 100.00 
+
+School  Of  Scholars, Gadchiroli 
+
+SSC   |    CBSE  Board    |   Percentage : 81.8 / 100.00 
+
+ 
+INTERNSHIPS 
+
+1)NETWORKING  INTERNSHIP  VIRTUAL  PROGRAM 
+
+  Key Skills :  
+
+Networking tools 
+
+Networking concepts 
+
+Cisco Packet Tracer 
+
+Programming languages 
+
+Internship was virtual and based on networking concepts and networking architecture , making 
+network connections with routers, switches and other tools along with building different topologies 
+and understanding how network works by knowing about IP addresses 
+
+2)AIML VIRTUAL INTERNSHIP PROGRAM  
+
+   Key Skills :  
+
+- 
+
+Artificial Intelligence 
+
+Machine Learning 
+
+Deep Learning 
+
+Python 
+
+The internship was virtual and based on core technologies such as artificial intelligence, data 
+mining, data modelling also some machine learning algorithms like ensemble learning, deep 
+learning, Reinforcement Learning, Natural Language Processing.  
+
+3)DATA ANALYTICS VIRTUAL INTERNSHIP PROGRAM  
+
+   Key Skills :     
+
+Data Science 
+
+Microsoft Excel 
+
+r 
+
+Machine Learning 
+
+Python 
+
+SQL 
+
+Data Visualization 
+
+It basically includes analysis part of data using tableau , powerbi ,types of analytics, different 
+models used, preparing and understanding of data, analysis using various tools, charts, plots, 
+graphs etc 
+
+PROJECTS 
+
+1)USED CAR PRICE PREDICTION 
+
+   Mentor : Manish Giri        |        Team Size : 4 
+
+   Key Skills :    
+
+Machine Learning  
+
+Requirement analysis 
+
+Collecting and analyzing 
+research papers 
+
+This is our current project on which we our working where we first collected and analyzed 
+research papers and worked on dataset, coding, modelling and deploying model in web app. 
+
+Team work 
+
+Web design 
+
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2) HAND GESTURE RECOGNITION SYSTEM  
+
+   Mentor : Shrikant Salve       |        Team Size : 3 
+
+Key Skills :     
+
+Open CV 
+
+Object detection 
+
+Image Processing 
+
+Python 
+
+Machine Learning 
+
+In this project we identified different hand gestures that human basically do and on basis of that 
+we automate our model accordingly using python code by using open cv library and operate the 
+laptop with help of those gestures, control and monitor the laptop. 
+
+3) BANK MANAGEMENT SYSTEM 
+
+    Team Size : 2 
+
+   Key Skills :   
+
+Big Data 
+
+HQL 
+
+Data visualisation 
+
+Hive 
+
+Hadoop 
+
+Project consist of creation of tables in mysql and importing tables from mysql to HDFS using sqoop 
+tool , also creating external tables in hive. On basis of this analysis of bank management system 
+was done and related with real life problems. 
+
+OTHER PROJECT WORKING ON  
+
+•  OLYMPICS DATA ANALYSIS 
+
+CERTIFICATIONS 
+
+1)AI-900 MICROSOFT AZURE AI FUNDAMENTALS 
+
+2)30 DAYS OF GOOGLE CLOUD PROGRAM 
+
+3)COMPETETIVE PROGRAMMING USING PYTHON 
+
+4)MANAGING BIG DATA IN CLUSTERS AND CLOUD STORAGE 
+
+  
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+EXTRA CURRICULAR ACTIVITIES 
+
+•  Worked as management team in nakshtra annual function held in college 
+•  Do marketing of  event held by mozilla group by contacting students for participation. 
+
+PERSONAL INTERESTS / HOBBIES 
+
+•  Singing 
+•  Travelling 
+•  Watching English movies 
+•  Reading 
+•  Writing 
+
+PERSONAL DETAILS 
+
+Gender : Female                                                                                                  Date of Birth : 26 Oct, 2002 
+
+Marital Status : Unmarried                                                    Known languages : Marathi, English, Hindi 
+
+Current Address : Tapkir nagar, near MITAOE                Permanent Address : Rampuri ward camp 
+
+College dehu phata, Alandi                                                                                                   area, Gadchiroli 
+
+Emails : hrutuja.hiwarkar@mitaoe.ac.in,                        Phone number : 7517060949 
+
+               hrutujahiwarkar26@gmail.com 
+
+ 
+                                                                    SANJANA RAJESH NAGDIVE 
+
+                                                                                       B.tech- Electronics Engineer-MITAOE  
+
+                                                                                        Ph: 9356754115                 
+
+                                                                                            Email: sanjana.nagdive@mitaoe.ac.in 
+
+                                                                                                                   Pune, Maharashtra,India 
+
+BRIEF OVERVIEW/ CAREER OBJECTIVE/ SUMMARY 
+
+   Highly motivated and dedicated individual looking for challenging experience and position with leadership quality               
+in your reputed company.  
+
+KEY EXPERTISE/SKILLS 
+
+Autocad      Fusion360      C language      Python          
+
+Soft skills:  Multitasking    Communications skills    Presentation skills 
+
+EDUCATION 
+
+   MIT Academy of Engineering (MITAOE)                                                                                                  2020-2024 
+
+   B.Tech- Electronics-MITAOE | CGPA: 8.90/10.00 
+
+   G.H. Raisoni Junior College , Hingna Nagpur                                                                                           2018-2019 
+
+   12th Graduatuion | Percentage: 82/100   
+
+   Central India Public School, Kamptee road, Nagpur                                                                                2017-2018 
+
+    10th | Percentage: 89/100 
+
+INTERNSHIPS 
+
+    HEXNBIT- Tevatron technologies pvt ltd                                                                    13th June,2022- 24th July,2022 
+
+    Key skills: 
+
+         Web designing      Frontend     JavaScript       HTML 
+
+    In this internship, we learnt how to design a web using HTML, java script and how to design a front end website for official  
+    work. We were also assigned small project based on the same to design self portfolio. 
+
+PROJECTS 
+
+     Designing a Syringe pump for medical use                                                              22nd Aug,2022- 12th March, 2023 
+
+     Key skills:     Motor workings    Precision controlling      
+
+     In this project we studies about working of Stepper motor, we studied about STM boards and their working, we       
+controlled motor and also worked on precision controlling.                                   
+
+    Designing Posture monitoring and correcting system                                                 12th Feb 2020- 23rd Dec, 2022 
+
+    Key skills:    Sensor learning     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this project, we worked with different sensors, we deigned our own sensor and we made the posture correcting 
+system in shortest possible time.  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+•  Founder at an NGO based in Nagpur 
+•  Core member in Dance club 
+•  Lippan-art Home decor selling side business 
+
+PERSONAL INTEREST/HOBBIES 
+
+•  Painting/Sketching 
+•  Writing poetries both Hindi/English 
+•  Dancing: styles like classical, Bollywood, belly dancing, contemporary, etc 
+
+WEB LINKS 
+
+•  Whatsapp: +91 9356754115 
+
+PERSONAL DETAILS 
+
+      Gender: Female                                                                              Date of birth: 16/03/2002 
+
+      Maritial Status: Unmarried                                                          Known languages: Hindi,English 
+
+     Current address: Manas Girls Hostel, Alandi, Pune                     Permanent Address: 155b Bhilgao, Nagpur      
+
+     Email: Sanjana.nagdive@mitaoe.ac.in                                           Phone number: +91 9356754115              
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                     Shubham Santram Saptasagare 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010215831 
+Email: Shubham.saptasagare@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+Looking for an entry-level position in a dynamic organization where my knowledge of web development and coding 
+will contribute to achieving the company’s goals. 
+
+KEY EXPERTISE / SKILLS 
+
+ HTML      CSS       JavaScript      PHP      MySQL     React      C++      Python 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.5 / 10.00   
+
+Cambridge Junior College, Miraj, Sangli                                                                                                                                  2020    
+MSBSHSE Percentage: 74 / 100  
+
+Shree Mahankali High School, Kavathemahankal, Sangli                                                                                         2018    
+MSBSHSE Percentage: 89.20 / 100 
+
+Internship 
+
+VIEH Private LTD 
+Project: Personal Portfolio Website 
+Key Skills: HTML, CSS, JavaScript 
+
+YBI Foundation 
+Project: Cement Strength Analysis 
+Key skill: Python, Machine Learning, Classification algorithm 
+
+Projects 
+
+LoRa Based Smart Irrigation System                   Mentor – Prof Isaq Shikalgar        
+Key skill: IoT, LoRa Technology, Embedded C 
+
+PG Life Website (Ongoing) 
+Key Skills – Full Stack Web Development  
+
+Assessments / Certificates : 
+
+CyberOPS Associate (CISCO) 
+Key Skills- Cyber Security 
+
+Foundation Of Data Science (Infosys Springboard) 
+Key Skills- Pandas   NumPy     Matplotlib   
+
+Full Stack Web Development (Intern Shala)  
+Key Skills- HTML    CSS      JavaScript    React     MySQL     PHP       
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PERSONAL INTERESTS / HOBBIES: 
+
+Competitive Coding, Swimming,  Solo Travelling 
+
+WEB LINKS: 
+
+LinkedIn:  https://www.linkedin.com/in/shubham-saptasagare/ 
+GitHub: https://github.com/Shubham1213s 
+
+PERSONAL DETAILS:  
+
+Gender- Male                                                                                                            Known Languages- Marathi, Hindi, English. 
+
+Marital Status- Unmarried                                                                                      DOB- 20 OCT 2002 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Scientist
+
+ROBERT SMITH
+
+Phone: (123) 456 78 99 
+Email: info@qwikresume.com
+Website: www.qwikresume.com
+LinkedIn:
+linkedin.com/qwikresume
+Address: 1737 Marshville Road,
+Alabama.
+
+Objective
+
+Data Scientist with PhD in Physics and 1+ industrial experience. Two years of working experience 
+in Data Analysis team of LIGO Scientific Collaboration [$3M Special Breakthrough Prize winner of 
+2016]. Over ten years of successful research experience in both theoretical and computational 
+physics. Strong problem-solving and analytical skills. Advanced programming proficiency. Certified
+in Data Analysis and Machine Learning.
+
+Skills
+
+Data Mining, Data Analysis, Machine Learning, Python, R, MATLAB, Sphinx, LaTeX, Mathematica, 
+Maple, GIT, CVS, HTCondor.
+
+Work Experience
+
+Data Scientist
+ABC Corporation ­ May 1994 – May 2005 
+
+ Assisted in determining client needs, deliverable design, estimates and feasibility for 
+
+analytical projects concerning a custom study for a manufacturer who is using the results to 
+support a litigation claim.
+
+ Served as an internal resource for Jacknife programming and documentation.
+ Designed and developed small scale deliverables related to the custom study.
+ Participated in the Post Project Review QIP team.
+ Responsible for results reporting in the appropriate media and creation of supporting 
+
+documentation for the client.
+
+ Monitored products from statistical programs for accuracy, consistency and statistical validity.
+ Designed and applied statistical and mathematical methods for corporate analytics that were 
+
+implemented into client-facing products.
+
+Data Scientist
+ABC Corporation ­ 1993 – 1994 
+
+ Maintained automated ETL for reporting.
+
+
+Implemented Data mining and machine learning algorithms to describe and predict user 
+behavior on various retailer websites.
+I revamped their &quot;Predictive Marketing&quot; process to be more data driven and 
+profitable.
+
+
+
+ The new process was able to hone in on more useful user segments that had a significant 
+
+increase in conversion.
+
+ Skills Used Data Cleansing and Data Analysis using Python, Scala, R and Spark.
+ Cloud computing on AWS.
+ Automation of reporting..
+
+Education
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines
+
+Bachelor Of Science - (Stanford)
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines
+
+Pushkar Prasad Shepal 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-9503698093 
+Email: Pushkar.shepal@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY: 
+To  seek  an  internship  or  entry  level  position  as  an  Electronics  and  Telecommunication 
+engineer,  utilizing  and  upgrading  my  skills  in  Machine  learning,  Embedded  systems  by 
+working on hands – on projects and contributing to the growth of organization. 
+
+SKILLS 
+
+Python, Java, C, Embedded C, SQL, MATLAB, Simulink. 
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.95 / 10.00   
+NKT college of arts science and commerce, Thane, Maharashtra                                                       2020  
+12th MSBSHSE Percentage: 87 / 100.00  
+
+NES English medium high school, Bhiwandi, Thane                                                                                             2018 
+10th MSBSHSE Percentage: 92.0 / 100.00 
+
+Internship  
+
+RedXIntern 
+Key skill: Machine Learning 
+
+Projects 
+
+Table Detection using fast RCNN 
+Key skill: Deep learning, CNN architecture, TensorFlow, R-CNN, python. 
+Brain tumour detection using MATLAB 
+Key skill: Image processing, MATLAB Gui. 
+Credit card fraud detection system 
+Key Skill: Machine learning Algorithms, python, flask. 
+
+Assessments / Certificates : 
+
+Foundation in Data Science Infosys Springboard 
+Key skills: - Linear algebra, statistics and probability, NumPy’s, pandas, feature engineering 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Reading, watching movies and series 
+
+WEB LINKS: 
+
+LinkedIn : https://www.linkedin.com/in/pushkar-shepal/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushkar Prasad Shepal 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-9503698093 
+Email: Pushkar.shepal@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY: 
+To  seek  an  internship  or  entry  level  position  as  an  Electronics  and  Telecommunication 
+engineer,  utilizing  and  upgrading  my  skills  in  Machine  learning,  Embedded  systems  by 
+working on hands – on projects and contributing to the growth of organization. 
+
+SKILLS 
+
+Python, Java, C, Embedded C, SQL, MATLAB, Simulink. 
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.95 / 10.00   
+NKT college of arts science and commerce, Thane, Maharashtra                                                       2020  
+12th MSBSHSE Percentage: 87 / 100.00  
+
+NES English medium high school, Bhiwandi, Thane                                                                                             2018 
+10th MSBSHSE Percentage: 92.0 / 100.00 
+
+Internship  
+
+RedXIntern 
+Key skill: Machine Learning 
+
+Projects 
+
+Table Detection using fast RCNN 
+Key skill: Deep learning, CNN architecture, TensorFlow, R-CNN, python. 
+Brain tumour detection using MATLAB 
+Key skill: Image processing, MATLAB Gui. 
+Credit card fraud detection system 
+Key Skill: Machine learning Algorithms, python, flask. 
+
+Assessments / Certificates : 
+
+Foundation in Data Science Infosys Springboard 
+Key skills: - Linear algebra, statistics and probability, NumPy’s, pandas, feature engineering 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Reading, watching movies and series 
+
+WEB LINKS: 
+
+LinkedIn : https://www.linkedin.com/in/pushkar-shepal/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushkar Prasad Shepal 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-9503698093 
+Email: Pushkar.shepal@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY: 
+To  seek  an  internship  or  entry  level  position  as  an  Electronics  and  Telecommunication 
+engineer,  utilizing  and  upgrading  my  skills  in  Machine  learning,  Embedded  systems  by 
+working on hands – on projects and contributing to the growth of organization. 
+
+SKILLS 
+
+Python, Java, C, Embedded C, SQL, MATLAB, Simulink. 
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.95 / 10.00   
+NKT college of arts science and commerce, Thane, Maharashtra                                                       2020  
+12th MSBSHSE Percentage: 87 / 100.00  
+
+NES English medium high school, Bhiwandi, Thane                                                                                             2018 
+10th MSBSHSE Percentage: 92.0 / 100.00 
+
+Internship  
+
+RedXIntern 
+Key skill: Machine Learning 
+
+Projects 
+
+Table Detection using fast RCNN 
+Key skill: Deep learning, CNN architecture, TensorFlow, R-CNN, python. 
+Brain tumour detection using MATLAB 
+Key skill: Image processing, MATLAB Gui. 
+Credit card fraud detection system 
+Key Skill: Machine learning Algorithms, python, flask. 
+
+Assessments / Certificates : 
+
+Foundation in Data Science Infosys Springboard 
+Key skills: - Linear algebra, statistics and probability, NumPy’s, pandas, feature engineering 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Reading, watching movies and series 
+
+WEB LINKS: 
+
+LinkedIn : https://www.linkedin.com/in/pushkar-shepal/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushkar Prasad Shepal 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-9503698093 
+Email: Pushkar.shepal@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY: 
+To  seek  an  internship  or  entry  level  position  as  an  Electronics  and  Telecommunication 
+engineer,  utilizing  and  upgrading  my  skills  in  Machine  learning,  Embedded  systems  by 
+working on hands – on projects and contributing to the growth of organization. 
+
+SKILLS 
+
+Python, Java, C, Embedded C, SQL, MATLAB, Simulink. 
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.95 / 10.00   
+NKT college of arts science and commerce, Thane, Maharashtra                                                       2020  
+12th MSBSHSE Percentage: 87 / 100.00  
+
+NES English medium high school, Bhiwandi, Thane                                                                                             2018 
+10th MSBSHSE Percentage: 92.0 / 100.00 
+
+Internship  
+
+RedXIntern 
+Key skill: Machine Learning 
+
+Projects 
+
+Table Detection using fast RCNN 
+Key skill: Deep learning, CNN architecture, TensorFlow, R-CNN, python. 
+Brain tumour detection using MATLAB 
+Key skill: Image processing, MATLAB Gui. 
+Credit card fraud detection system 
+Key Skill: Machine learning Algorithms, python, flask. 
+
+Assessments / Certificates : 
+
+Foundation in Data Science Infosys Springboard 
+Key skills: - Linear algebra, statistics and probability, NumPy’s, pandas, feature engineering 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Reading, watching movies and series 
+
+WEB LINKS: 
+
+LinkedIn : https://www.linkedin.com/in/pushkar-shepal/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushkar Prasad Shepal 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-9503698093 
+Email: Pushkar.shepal@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY: 
+To  seek  an  internship  or  entry  level  position  as  an  Electronics  and  Telecommunication 
+engineer,  utilizing  and  upgrading  my  skills  in  Machine  learning,  Embedded  systems  by 
+working on hands – on projects and contributing to the growth of organization. 
+
+SKILLS 
+
+Python, Java, C, Embedded C, SQL, MATLAB, Simulink. 
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.95 / 10.00   
+NKT college of arts science and commerce, Thane, Maharashtra                                                       2020  
+12th MSBSHSE Percentage: 87 / 100.00  
+
+NES English medium high school, Bhiwandi, Thane                                                                                             2018 
+10th MSBSHSE Percentage: 92.0 / 100.00 
+
+Internship  
+
+RedXIntern 
+Key skill: Machine Learning 
+
+Projects 
+
+Table Detection using fast RCNN 
+Key skill: Deep learning, CNN architecture, TensorFlow, R-CNN, python. 
+Brain tumour detection using MATLAB 
+Key skill: Image processing, MATLAB Gui. 
+Credit card fraud detection system 
+Key Skill: Machine learning Algorithms, python, flask. 
+
+Assessments / Certificates : 
+
+Foundation in Data Science Infosys Springboard 
+Key skills: - Linear algebra, statistics and probability, NumPy’s, pandas, feature engineering 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Reading, watching movies and series 
+
+WEB LINKS: 
+
+LinkedIn : https://www.linkedin.com/in/pushkar-shepal/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                     Shubham Santram Saptasagare 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010215831 
+Email: Shubham.saptasagare@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+Looking for an entry-level position in a dynamic organization where my knowledge of web development and coding 
+will contribute to achieving the company’s goals. 
+
+KEY EXPERTISE / SKILLS 
+
+ HTML      CSS       JavaScript      PHP      MySQL     React      C++      Python 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.5 / 10.00   
+
+Cambridge Junior College, Miraj, Sangli                                                                                                                                  2020    
+MSBSHSE Percentage: 74 / 100  
+
+Shree Mahankali High School, Kavathemahankal, Sangli                                                                                         2018    
+MSBSHSE Percentage: 89.20 / 100 
+
+Internship 
+
+VIEH Private LTD 
+Project: Personal Portfolio Website 
+Key Skills: HTML, CSS, JavaScript 
+
+YBI Foundation 
+Project: Cement Strength Analysis 
+Key skill: Python, Machine Learning, Classification algorithm 
+
+Projects 
+
+LoRa Based Smart Irrigation System                   Mentor – Prof Isaq Shikalgar        
+Key skill: IoT, LoRa Technology, Embedded C 
+
+PG Life Website (Ongoing) 
+Key Skills – Full Stack Web Development  
+
+Assessments / Certificates : 
+
+CyberOPS Associate (CISCO) 
+Key Skills- Cyber Security 
+
+Foundation Of Data Science (Infosys Springboard) 
+Key Skills- Pandas   NumPy     Matplotlib   
+
+Full Stack Web Development (Intern Shala)  
+Key Skills- HTML    CSS      JavaScript    React     MySQL     PHP       
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PERSONAL INTERESTS / HOBBIES: 
+
+Competitive Coding, Swimming,  Solo Travelling 
+
+WEB LINKS: 
+
+LinkedIn:  https://www.linkedin.com/in/shubham-saptasagare/ 
+GitHub: https://github.com/Shubham1213s 
+
+PERSONAL DETAILS:  
+
+Gender- Male                                                                                                            Known Languages- Marathi, Hindi, English. 
+
+Marital Status- Unmarried                                                                                      DOB- 20 OCT 2002 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    SANJANA RAJESH NAGDIVE 
+
+                                                                                       B.tech- Electronics Engineer-MITAOE  
+
+                                                                                        Ph: 9356754115                 
+
+                                                                                            Email: sanjana.nagdive@mitaoe.ac.in 
+
+                                                                                                                   Pune, Maharashtra,India 
+
+BRIEF OVERVIEW/ CAREER OBJECTIVE/ SUMMARY 
+
+   Highly motivated and dedicated individual looking for challenging experience and position with leadership quality               
+in your reputed company.  
+
+KEY EXPERTISE/SKILLS 
+
+Autocad      Fusion360      C language      Python          
+
+Soft skills:  Multitasking    Communications skills    Presentation skills 
+
+EDUCATION 
+
+   MIT Academy of Engineering (MITAOE)                                                                                                  2020-2024 
+
+   B.Tech- Electronics-MITAOE | CGPA: 8.90/10.00 
+
+   G.H. Raisoni Junior College , Hingna Nagpur                                                                                           2018-2019 
+
+   12th Graduatuion | Percentage: 82/100   
+
+   Central India Public School, Kamptee road, Nagpur                                                                                2017-2018 
+
+    10th | Percentage: 89/100 
+
+INTERNSHIPS 
+
+    HEXNBIT- Tevatron technologies pvt ltd                                                                    13th June,2022- 24th July,2022 
+
+    Key skills: 
+
+         Web designing      Frontend     JavaScript       HTML 
+
+    In this internship, we learnt how to design a web using HTML, java script and how to design a front end website for official  
+    work. We were also assigned small project based on the same to design self portfolio. 
+
+PROJECTS 
+
+     Designing a Syringe pump for medical use                                                              22nd Aug,2022- 12th March, 2023 
+
+     Key skills:     Motor workings    Precision controlling      
+
+     In this project we studies about working of Stepper motor, we studied about STM boards and their working, we       
+controlled motor and also worked on precision controlling.                                   
+
+    Designing Posture monitoring and correcting system                                                 12th Feb 2020- 23rd Dec, 2022 
+
+    Key skills:    Sensor learning     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this project, we worked with different sensors, we deigned our own sensor and we made the posture correcting 
+system in shortest possible time.  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+•  Founder at an NGO based in Nagpur 
+•  Core member in Dance club 
+•  Lippan-art Home decor selling side business 
+
+PERSONAL INTEREST/HOBBIES 
+
+•  Painting/Sketching 
+•  Writing poetries both Hindi/English 
+•  Dancing: styles like classical, Bollywood, belly dancing, contemporary, etc 
+
+WEB LINKS 
+
+•  Whatsapp: +91 9356754115 
+
+PERSONAL DETAILS 
+
+      Gender: Female                                                                              Date of birth: 16/03/2002 
+
+      Maritial Status: Unmarried                                                          Known languages: Hindi,English 
+
+     Current address: Manas Girls Hostel, Alandi, Pune                     Permanent Address: 155b Bhilgao, Nagpur      
+
+     Email: Sanjana.nagdive@mitaoe.ac.in                                           Phone number: +91 9356754115              
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abhishek Vinchu 
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +917357563911  
+Email: abhishek.vinchu@mitaoe.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+To obtain a challenging role as a civil engineer that allows me to utilize my technical expertise and project 
+management and academic skills to contribute to the success of infrastructure projects. My objective is to 
+continuously improve my knowledge and skills to deliver innovative and sustainable solutions that meet client 
+requirements 
+
+KEY EXPERTISE/SKILLS 
+PROJECT MANAGEMENT | MSP | AUTOCAD | OPENROAD SOFTWARE | ETABS | Staad Pro | MS OFFICE | REVIT 
+ARCHITECTURE | 
+
+COMMUNICATION SKILLS | CREATIVE | FLEXIBLE | 
+
+EDUCATION 
+Pursuing Third Year in MIT Academy of Engineering (MITAOE)  
+2020-2024                                                                                    
+B.Tech. – Civil Engineering | CGPA: 8.91 (Till Sem 5) 
+
+Shri Pramod Patil Junior College Of Science, Nashik    
+2019                                                                                                                                                   
+
+12th | HSC | Percentage: 73.80/100 
+
+De Paul English Medium School, Yeola   
+2017                                                    
+10th | SSC | Percentages: 93.60/100 
+
+INTERNSHIPS 
+Vasundhara Buildcon, The House of Chavans, Balewadi, Pune. 
+
+Key skills: Site Management | Site Planning | Supervision | Reinforcement Learning | Management Skills| 
+AutoCAD | Revit | 
+
+PROJECTS 
+Fragility Analysis Of RCC Framed Structure (Major Project) 
+
+Mentor: Mr. Nilesh Baglekar Sir| Team Size: 4 
+
+Key Skills: | STRUCTURAL ANALYSIS | ETABS | EARTHQUAKE RESISTANT ENGINEERING | 
+
+In this project we are working on linear and non-linear analysis of buildings, which will help us to provide major 
+fatalities. 
+
+High Performance Building Envelope(Minor Project) 
+
+Mentor: Mr. Vijay Pingale Sir 
+
+Key Skills: | Revit | 
+
+In this project, Buildings/Panels were designed which optimises all major high performance building attributes 
+including energy, durability, life cycle performance, cost benefit productivity, sustainability and operational 
+considerations  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+                        
+Smart Street Light (Hardware Proto) 
+
+Mentor: Mr. Shridar Khandekar Sir | Team Size: 4 
+
+Key Skills: | TINKERCAD | CIRCUIT CONNECTIONS |  
+
+ASSESSMENTS/CERTIFICATIONS 
+Internship Certificate From Vasundhara Buildcon. 
+
+Staad Pro from Internshala 
+
+JAVA 11 From LinkedIn 
+
+EXTRA CURRICULAR ACTIVITIES 
+
+▪  Worked as Volunteer in College Events 
+
+▪  1 place in Inter Department Football Tournament (2022,2023) 
+
+▪  3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+▪  Playing And Watching Football 
+▪  Playing Chess 
+▪ 
+Travelling 
+▪  Adventure 
+▪  Music 
+
+WEB LINKS/IMs 
+
+▪  WhatsApp: 7357563911 
+
+▪ 
+
+LinkedIn: https://www.linkedin.com/in/abhishek-vinchu-178980243. 
+
+PERSONAL DETAILS 
+
+Gender: Male 
+Marital Status: Unmarried 
+Current Address: Aksha Vasant Park, Dudalgoon, Pune  
+412105 
+Email: abhishek.vinchu@mitaoe.ac.in 
+
+Date of Birth: 15 June 2001 
+Known Languages: English, Marathi, Hindi 
+Permanent Address: Shri Seva Society, Opposite to Shell 
+Petrol Pump, Nashik. 
+Phone Number: 7357563911 
+
+ 
+ 
+ 
+ 
+Gayatri Londhekar 
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +919322017830 
+Email: gayatri.londhekar@mitaoe.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+Get a responsible employment opportunity that will allow me to make the most of my education and experience 
+while significantly contributing to the company's success. 
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | OPENROAD SOFTWARE | ETABS | Excel | REVIT ARCHITECTURE | JAVA | C language | 
+
+COMMUNICATION SKILLS | CREATIVE | FUSION360  
+
+EDUCATION 
+Pursuing Third Year in MIT Academy of Engineering (MITAOE)    
+
+B.Tech. – Civil Engineering | CGPA: 8.6 (Till Sem 5) 
+
+New Art’s Science and commerce college     
+
+12th | HSC | Percentage: 72/100 
+
+New English Convent                      
+
+10th | SSC | Percentages: 92/100 
+
+2020-2024                                                                   
+
+          2020                                                                                                                             
+
+                                       2018                                                   
+
+INTERNSHIPS 
+Construction of 200 Qtrs at HQ Wardha and City Police Station Bldg at wardha for SP Wardha 
+Key skills Revit Software | AutoCAD | Fusion360 
+
+Key skills Site Management | Site Planning | Supervision | Construction | Reinforcement Learning | Management 
+Skills | 
+
+PROJECTS 
+Development of Smart Watch (Minor Project) 
+
+Mentor: Miss. Farhana Mam| Team Size: 4 
+
+Fragility Analysis of RCC Frame (Major Project) 
+
+Mentor: Mr. Nilesh Baglekar Sir| Team Size: 4 
+
+Key Skills: | STRUCTURAL ANALYSIS |  
+
+Objective of our project: 
+
+  To study and analysis of highrise RC frames for different parameters, factors by computational 
+
+calculations. 
+
+  To study fragility analysis through linear methods. 
+  To develop fragility curves 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ASSESSMENTS/CERTIFICATIONS 
+Autocad  From  Coursera 
+
+Python from Coursera 
+
+JAVA 11 From LinkedIn 
+
+EXTRA CURRICULAR ACTIVITIES 
+
+  Member of Goonj Club 
+  Participated in Music events 
+  Sports 
+
+PERSONAL INTERESTS/HOBBIES 
+
+  Travel  
+  Adventure 
+  Singing 
+  Dance 
+
+WEB LINKS/IMs 
+
+  WhatsApp: 9322017830 
+
+PERSONAL DETAILS 
+
+Gender: Female 
+Marital Status: Unmarried 
+Current Address: Dehu Phata, Alandi Pune  
+412105 
+Email: gayatri.londhekar@mitaoe.ac.in 
+
+Date of Birth: 02 Feb 2002 
+Known Languages: English, Marathi, Hindi 
+Permanent Address: Ayodhya Nagar, Wardha 
+Phone Number: 9322017830 
+
+ 
+ 
+ 
+ 
+Gireesh Tembhurnikar 
+
+B.Tech. - Mechanical Engineering 
+-MITAOE 
+Ph: +91-9764487292 
+ Email: gireesh.tembhurnikar@mitaoe.ac.in 
+Pune, Maharashtra, India – 411006 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY                                                                                        .   
+
+To use my skills to achieve desired  and beneficial result for organization. To seek job that will 
+
+ Enhance and improve my ability to work in professional environment 
+
+KEY EXPERTISE / SKILLS                                                                                                                                          .      
+
+AUTOCAD         FUSION360          CATIA V5        MS OFFICE      MS EXCEL  
+
+EDUCATION                                                                                                                                                              . 
+
+MIT Academy Of Engineering 
+
+B.Tech- Mechanical Engineering-MITAOE | CGPA:7.87/10.00 
+
+Dinanath junior college,Nagpur 
+
+12th|HSC-Compuer Science|Percentage:70/100 
+
+G.N.H.S. Gondiya 
+
+10th|SSC|Percentage:92.6/100 
+
+INTERNSHIPS                                                                                                                                                            . 
+
+PROJECTS                                                                                                                                                                  . 
+
+Face recognition of Cow/Buffalo using Machine learning 
+
+Mentor: Prof. Abhijeet Malge Sir       
+
+Key Skills: Python,Ml,AI 
+
+ 
+ 
+                                                                                  
+ 
+ 
+ 
+                                                                         
+ 
+ 
+ASSESMENTS / CERTIFICATIONS                                                                                                                           . 
+
+PERSONAL INTERESTS / HOBBIES                                                                                                                         . 
+
+Playing Outdoor Games 
+
+Singing 
+
+WEB LINKS / IMs                                                                                                                                                     . 
+
+Whats App: 9764487292 
+
+Linked in: https://www.linkedin.com/in/gireesh-tembhurnikar-5a4532n 
+
+PERSONAL DETAILS                                                                                                                                                . 
+
+Gender: Male 
+
+Marital Status: Unmarried 
+
+Current Address: Dehu Phata, Alandi-412105  
+
+Date Of Birth: 25/01/2001 
+
+Known Language: Marathi, English, Hindi 
+
+Permanent Address: Kumbhare Nagar Nana Chowk Gondiya-441601, Maharashtra. 
+
+                                                                                                                       
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arya Rishikesh Patil 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-7066696366 
+Email: arya.patil@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+Aiming  to  work  in  software  firm  to  utilize  my  knowledge  and  enabling  me  to  grow  while  fulfilling 
+organizational goals 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C, SQL, PowerBI, 3D Modelling  
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.29 / 10.00   
+
+Vivek Vardhini Vidyalaya & junior college, Pandharpur, Solapur                                                       2020  
+12th MSBSHSE Percentage: 84.62 / 100.00  
+
+Late Smt.B.G.Shanbhag Vidyalaya, Jalgaon, Jalgaon                                                                                             2018 
+10th MSBSHSE Percentage: 94.40 / 100.00 
+
+Internship  
+
+AICTE Virtual Internship 
+Palo alto Cybersecurity Virtual internship 
+Key skill: Cybersecurity, Fundamentals of cloud 
+
+Projects 
+
+Design and develop a system to maintain Data Integrity through Machine Learning 
+Key  skill:  IoT,  Cybersecurity,  Network  testing  tools  (Wireshark,  Ettercap,  Burp  suite,  kali  Linux  ), 
+Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Programming for Everybody  
+Skills: Python 
+CyberOps Associates 
+Skills: Cybersecurity 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Chess, Singing, Badminton 
+
+WEB LINKS: 
+
+LinkedIn :  https://www.linkedin.com/in/arya-patil2503/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Priyanka Shelke 
+BTech – Mechanical Engineering  
+MITAOE 
+Ph.: +91 9623504071 
+Email:priyanka.shelke@mitaoe.ac.i
+n Pune, Maharashtra, India - 
+411047 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+Seeking the position of an internship where my diligence and programming skills will prove to be an asset to 
+the company. My weakness is I always want to improve myself. My long term goal is to get a reputed position in the 
+company where I can build my career and help the organization. 
+
+KEY EXPERTISE / SKILLS 
+
+Python 
+
+HTML 
+
+ CSS     JS 
+
+ DBMS 
+
+Front-End Development     React     Java                                                                     SQL    
+
+ Cloud Computing  
+
+EDUCATION 
+
+MIT Academy of Engineering, Pune (MITAOE) 
+BTech. – Mechanical Engineering  | CGPA: 7.15 / 10.00 
+
+Lal Bahadur Shashtri Uswad  
+12th | State Board | Percentage: 64.05 / 100.00 
+
+Lal Bahadur Shashtri Uswad  
+  10th | State Board | Percentage: 75.00 / 100.00 
+
+PROJECTS 
+
+Autonomous Car 
+Mentor: Dr. Nilesh Totla | Team size: 4 
+
+1 Sept 2022 - 30 Apr 2023 
+
+Key Skills: Autocad | Python | Data Structure | Lidar Sensor | Team work | Fusion 360 
+
+An Autonomous car is a vehicle capable of sensing its environment and operating without human involvement. 
+
+Build A Content Management System   
+  Individual Project | Team size: 1 
+
+Key Skills: HTML  | CSS  | Javascript | React |  
+
+This will enhance the learning of HTML, CSS as the designing part is also there. You will get to know about the 
+scheduling of different components. The  project will help you to go through  the React component  lifecycle and 
+Framework. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ASSESSMENTS / CERTIFICATIONS 
+
+   Cloud Computing  
+
+  Issuing  Authority : Excelr 
+
+Fundamentals Of  Full Stack Development  
+Issuing Authority: Excelr  
+
+Azure AI Fundamentals  
+Issuing Authority: Microsoft  
+
+Javascript, React 
+Issuing Authority: Linkdin  
+
+EXTRACURRICULAR ACTIVITIES 
+
+●  Athletics  Runner. (First Price at District Level Games)  
+●  Kabaddi  Player.  (Participated for District Level) 
+
+PERSONAL INTERESTS / HOBBIES 
+
+●  Reading   
+●  Kabaddi 
+●  Travel 
+●  Music 
+
+WEB LINKS / IMs 
+
+●  LinkedIn: https://www.linkedin.com/in/priyanka-shelke-3a7444239 
+
+●  Whatsapp: +919623504071 
+
+PERSONAL DETAILS 
+
+Gender: Female 
+Date of Birth: 7 February  2002 
+Known Languages: Marathi, Hindi, 
+English 
+  Marital Status: Unmarried 
+Current Address: At:Alandi MIT college Front side Ta:Khed, Pune, Maharashtra – 411047  
+Permanent Address:At:Ambhora Shelke Ta:Mantha, Jalna, Maharashtra – 411047  
+Email: priyanka.shelke@mitaoe.ac.in , priyankashelke839@gmail.com 
+Contact: +91 9623504071 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JAYESH RAJPUT
++91 8104059695 ⋄ Pune, India
+jayeshrajput.in@gmail.com ⋄LinkedIn ⋄Github
+
+⋄
+
+OBJECTIVE
+
+Seeking internship roles in Data Science, Cloud Computing, and Software Development.
+
+EDUCATION
+
+B.Tech in Electronics and Telecommunication (Pursuing)
+MIT Academy of Engineering, 8.24 CGPA
+Relevant Coursework: Cloud Computing, Java Full stack Development
+Data Structures and Algorithms using C.
+
+SKILLS
+
+Expected Aug 2024
+
+Programming Languages
+Tools and Technologies
+Soft Skills
+
+Core Java, Python, SQL, HTML, CSS
+AWS, Linux, GIT, Github, Power BI, MYSQL, OOP, Figma
+Analytical Thinking, Design Thinking, Leadership, Collaborative Approach
+
+July 2022 - Sept 2022
+Remote, India
+
+July 2022 - Aug 2022
+Remote, India
+
+EXPERIENCE
+
+Student Intern
+Vois
+
+• Built NLP based Abstractive Text Summarization Model
+• Applied Python, Flask, HTML, CSS Git and Github.
+
+Student Trainee IPR - Beginner
+MIT Academy of Engineering
+
+• Learnt about Intellectual Property Rights, Copyrights.
+• Learnt about Patents and the process of filing it.
+• Studied various acts regarding Patents and Copyrights.
+
+PROJECTS
+
+Text Summarization by using NLP
+Built an NLP based abstractive text summariszation model. (Github Repository)
+
+Object Detection Using Faster RCNN (In Progress)
+Built a Deep Learning model that detects the object using various algorithms like
+ANN, CNN, RCNN and compared their efficiency. We used Cat vs Dog dataset to
+train and test the model.
+
+EXTRA-CURRICULAR ACTIVITIES
+
+• TY Class Representative in Student Council
+
+• Student Representative in ETSA (ETC Student Association)
+
+• Corporate Relations Training and Placement Coordinator SEE
+
+CERTIFICATIONS AND TRAINING
+
+AWS Certified Cloud Practitioner
+Microsoft Certified: Azure Fundamentals
+Microsoft Certified: AI Fundamentals
+Microsoft Certified: Data Fundamentals
+Google Cloud Certified Digital Leader
+
+Zensar ESD Program
+ICT Academy Data Analytics using Power BI
+FUEL Java Full Stack Development
+Udacity AWS Machine Learning Foundation
+
+JAYESH RAJPUT 
+
+STUDENT AND CLOUD ENTHUSIAST 
+Kalyan, Maharashtra, India · +918104059695 
+Email: jayeshrajput.in@gmail.com LinkedIn:  Jayesh Rajput  
+
+INTERNSHIP 
+
+1ST JULY 2022 – 1ST OCTOBER 2022 
+SUMMER INTERN, VOIS FOR TECH 
+In a team of two we worked on a project “Text Summarizer” in which we built an NLP 
+model using Machine Learning and then integrated it within a website using Flask 
+framework of python. The main objective of our project was to get a summarized form of 
+text as an output which we successfully accomplished.   
+
+1ST APRIL 2022 – 1ST MAY 2022 
+INTERN, FUTURE READY TALENT VIRTUAL INTERNSHIP 
+I learned about the different Microsoft services and then made a project using one of the 
+Azure services. I made an online education website Using HTML, CSS, JavaScript and then 
+deployed It on Azure cloud using Static Web Apps Service. 
+
+PROJECTS 
+Major B.Tech Project (In Progress) 
+Project title is “Object Detection using Faster RCNN” we are using different 
+algorithms like ANN, CNN, RCNN, Faster RCNN where each algorithms 
+improves the accuracy to detect the object. 
+
+EDUCATION 
+
+FEBRUARY 2021 - PURSUING 
+B. TECH (ELECTRONICS AND TELECOM), MIT ACADEMY OF ENGINEERING  
+I have achieved 8.02 CGPA in First year and 8.03 in second year also participated in 
+various Bootcamps and Workshop organized by various departments and clubs in the 
+college. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+JUNE 2018 – MARCH 2020  
+HIGH SCHOOL, L.D. SONAWANE COLLEGE OF ARTS, COMMERCE AND SCIENCE 
+I have achieved 70% in HSC and 80% in SSC. I have also won gold medal in Relay Race for 
+my team and a trophy in Kabaddi. 
+
+SKILLS 
+
+•  Python 
+•  Pandas  
+•  SQL  
+•  GIT 
+
+CERTIFICATIONS 
+
+•  HTML, CSS  
+•  GCP 
+•  C++  
+•  AWS 
+
+AWS Certified Cloud Practitioner Certification 
+Microsoft Azure Fundamentals (AZ-900) 
+Microsoft AI Fundamentals (AI-900) 
+Microsoft Data Fundamentals (DP-900) 
+Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JAYESH RAJPUT
++91 8104059695 ⋄ Pune, India
+
+jayesh0@hotmail.com ⋄ www.linkedin.com/in/rajputjayesh ⋄ github.com/jayeshrajpoot
+
+OBJECTIVE
+
+Cloud practitioner, seeking internship roles in Data Analytics, Cloud Computing, and Software Development.
+
+EDUCATION
+
+B.Tech in Electronics and Telecommunication (Pursuing)
+MIT Academy of Engineering, 8.03 CGPA
+Relevant Coursework: Cloud Computing, Java Full stack Development
+Data Structures and Algorithms using C.
+
+SKILLS
+
+Expected 2024
+
+Programming Languages
+Tools and Technologies
+Soft Skills
+
+C/C++, Java, Python, SQL, JavaScript
+AWS, Linux, GIT, Github, Power BI, Excel, HTML, CSS
+Analytical Thinking, Leadership
+
+EXPERIENCE
+
+Student Intern
+Vois for Tech
+
+• Built Text Summarization NLP based model and deployed it on website.
+• Used Python, flask, HTML and CSS
+• Learned NLP, GIT, Github, flask.
+
+Intellectual Property Rights - Beginner
+MIT Academy of Engineering
+
+• Learned about Intellectual Property Rights, Copy Rights, Patents.
+
+July 2022 - Sept 2022
+Remote, India
+
+July 2022 - Aug 2022
+Remote, India
+
+PROJECTS
+
+NLP based Web Application.
+Built a NLP based model that will summarize the text.
+I learned Python, Flask, HTML, CSS, Git, Github while developing this project. (Github Repository)
+
+EXTRA-CURRICULAR ACTIVITIES
+
+• TY Class Representative in Student Council
+
+• Student Representative in ETSA (ETC Student Association)
+
+• Corporate Relations Training and Placement Coordinator SEE
+
+CERTIFICATIONS
+
+• AWS Certified Cloud Practitioner
+
+• Microsoft Certified: Azure Fundamentals
+
+• Microsoft Certified: AI Fundamentals
+
+• Microsoft Certified: Data Fundamentals
+
+JAYESH RAJPUT 
+
+STUDENT AND CLOUD ENTHUSIAST 
+Kalyan, Maharashtra, India · +918104059695 
+Email: jayeshrajput.in@gmail.com LinkedIn:  Jayesh Rajput  
+
+INTERNSHIP 
+
+1ST JULY 2022 – 1ST OCTOBER 2022 
+SUMMER INTERN, VOIS FOR TECH 
+In a team of two we worked on a project “Text Summarizer” in which we built an NLP 
+model using Machine Learning and then integrated it within a website using Flask 
+framework of python. The main objective of our project was to get a summarized form of 
+text as an output which we successfully accomplished.   
+
+1ST APRIL 2022 – 1ST MAY 2022 
+INTERN, FUTURE READY TALENT VIRTUAL INTERNSHIP 
+I learned about the different Microsoft services and then made a project using one of the 
+Azure services. I made an online education website Using HTML, CSS, JavaScript and then 
+deployed It on Azure cloud using Static Web Apps Service. 
+
+PROJECTS 
+Major B.Tech Project (In Progress) 
+Project title is “Object Detection using Faster RCNN” we are using different 
+algorithms like ANN, CNN, RCNN, Faster RCNN where each algorithms 
+improves the accuracy to detect the object. 
+
+EDUCATION 
+
+FEBRUARY 2021 - PURSUING 
+B. TECH (ELECTRONICS AND TELECOM), MIT ACADEMY OF ENGINEERING  
+I have achieved 8.02 CGPA in First year and 8.03 in second year also participated in 
+various Bootcamps and Workshop organized by various departments and clubs in the 
+college. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+JUNE 2018 – MARCH 2020  
+HIGH SCHOOL, L.D. SONAWANE COLLEGE OF ARTS, COMMERCE AND SCIENCE 
+I have achieved 70% in HSC and 80% in SSC. I have also won gold medal in Relay Race for 
+my team and a trophy in Kabaddi. 
+
+SKILLS 
+
+•  Python 
+•  Pandas  
+•  SQL  
+•  GIT 
+
+CERTIFICATIONS 
+
+•  HTML, CSS  
+•  GCP 
+•  C++  
+•  AWS 
+
+AWS Certified Cloud Practitioner Certification 
+Microsoft Azure Fundamentals (AZ-900) 
+Microsoft AI Fundamentals (AI-900) 
+Microsoft Data Fundamentals (DP-900) 
+Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JAYESH RAJPUT 
+
+STUDENT AND CLOUD ENTHUSIAST 
+Kalyan, Maharashtra, India · +918104059695 
+Email: jayeshrajput.in@gmail.com LinkedIn:  Jayesh Rajput  
+
+INTERNSHIP 
+
+1ST JULY 2022 – 1ST OCTOBER 2022 
+SUMMER INTERN, VOIS FOR TECH 
+In a team of two we worked on a project “Text Summarizer” in which we built an NLP 
+model using Machine Learning and then integrated it within a website using Flask 
+framework of python. The main objective of our project was to get a summarized form of 
+text as an output which we successfully accomplished.   
+
+1ST APRIL 2022 – 1ST MAY 2022 
+INTERN, FUTURE READY TALENT VIRTUAL INTERNSHIP 
+I learned about the different Microsoft services and then made a project using one of the 
+Azure services. I made an online education website Using HTML, CSS, JavaScript and then 
+deployed It on Azure cloud using Static Web Apps Service. 
+
+PROJECTS 
+Major B.Tech Project (In Progress) 
+Project title is “Object Detection using Faster RCNN” we are using different 
+algorithms like ANN, CNN, RCNN, Faster RCNN where each algorithms 
+improves the accuracy to detect the object. 
+
+EDUCATION 
+
+FEBRUARY 2021 - PURSUING 
+B. TECH (ELECTRONICS AND TELECOM), MIT ACADEMY OF ENGINEERING  
+I have achieved 8.02 CGPA in First year and 8.03 in second year also participated in 
+various Bootcamps and Workshop organized by various departments and clubs in the 
+college. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+JUNE 2018 – MARCH 2020  
+HIGH SCHOOL, L.D. SONAWANE COLLEGE OF ARTS, COMMERCE AND SCIENCE 
+I have achieved 70% in HSC and 80% in SSC. I have also won gold medal in Relay Race for 
+my team and a trophy in Kabaddi. 
+
+SKILLS 
+
+•  Python 
+•  Pandas  
+•  SQL  
+•  GIT 
+
+CERTIFICATIONS 
+
+•  HTML, CSS  
+•  GCP 
+•  C++  
+•  AWS 
+
+AWS Certified Cloud Practitioner Certification 
+Microsoft Azure Fundamentals (AZ-900) 
+Microsoft AI Fundamentals (AI-900) 
+Microsoft Data Fundamentals (DP-900) 
+Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arya Rishikesh Patil 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-7066696366 
+Email: arya.patil@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+Aiming  to  work  in  software  firm  to  utilize  my  knowledge  and  enabling  me  to  grow  while  fulfilling 
+organizational goals 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C, SQL, PowerBI, 3D Modelling  
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.29 / 10.00   
+
+Vivek Vardhini Vidyalaya & junior college, Pandharpur, Solapur                                                       2020  
+12th MSBSHSE Percentage: 84.62 / 100.00  
+
+Late Smt.B.G.Shanbhag Vidyalaya, Jalgaon, Jalgaon                                                                                             2018 
+10th MSBSHSE Percentage: 94.40 / 100.00 
+
+Internship  
+
+AICTE Virtual Internship 
+Palo alto Cybersecurity Virtual internship 
+Key skill: Cybersecurity, Fundamentals of cloud 
+
+Projects 
+
+Design and develop a system to maintain Data Integrity through Machine Learning 
+Key  skill:  IoT,  Cybersecurity,  Network  testing  tools  (Wireshark,  Ettercap,  Burp  suite,  kali  Linux  ), 
+Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Programming for Everybody  
+Skills: Python 
+CyberOps Associates 
+Skills: Cybersecurity 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Chess, Singing, Badminton 
+
+WEB LINKS: 
+
+LinkedIn :  https://www.linkedin.com/in/arya-patil2503/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                     Shubham Santram Saptasagare 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010215831 
+Email: Shubham.saptasagare@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+Looking for an entry-level position in a dynamic organization where my knowledge of web development and coding 
+will contribute to achieving the company’s goals. 
+
+KEY EXPERTISE / SKILLS 
+
+ HTML      CSS       JavaScript      PHP      MySQL     React      C++      Python 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.5 / 10.00   
+
+Cambridge Junior College, Miraj, Sangli                                                                                                                                  2020    
+MSBSHSE Percentage: 74 / 100  
+
+Shree Mahankali High School, Kavathemahankal, Sangli                                                                                         2018    
+MSBSHSE Percentage: 89.20 / 100 
+
+Internship 
+
+VIEH Private LTD 
+Project: Personal Portfolio Website 
+Key Skills: HTML, CSS, JavaScript 
+
+YBI Foundation 
+Project: Cement Strength Analysis 
+Key skill: Python, Machine Learning, Classification algorithm 
+
+Projects 
+
+LoRa Based Smart Irrigation System                   Mentor – Prof Isaq Shikalgar        
+Key skill: IoT, LoRa Technology, Embedded C 
+
+PG Life Website (Ongoing) 
+Key Skills – Full Stack Web Development  
+
+Assessments / Certificates : 
+
+CyberOPS Associate (CISCO) 
+Key Skills- Cyber Security 
+
+Foundation Of Data Science (Infosys Springboard) 
+Key Skills- Pandas   NumPy     Matplotlib   
+
+Full Stack Web Development (Intern Shala)  
+Key Skills- HTML    CSS      JavaScript    React     MySQL     PHP       
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PERSONAL INTERESTS / HOBBIES: 
+
+Competitive Coding, Swimming,  Solo Travelling 
+
+WEB LINKS: 
+
+LinkedIn:  https://www.linkedin.com/in/shubham-saptasagare/ 
+GitHub: https://github.com/Shubham1213s 
+
+PERSONAL DETAILS:  
+
+Gender- Male                                                                                                            Known Languages- Marathi, Hindi, English. 
+
+Marital Status- Unmarried                                                                                      DOB- 20 OCT 2002 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                     Shubham Santram Saptasagare 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010215831 
+Email: Shubham.saptasagare@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+Looking for an entry-level position in a dynamic organization where my knowledge of web development and coding 
+will contribute to achieving the company’s goals. 
+
+KEY EXPERTISE / SKILLS 
+
+ HTML      CSS       JavaScript      PHP      MySQL     React      C++      Python 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.5 / 10.00   
+
+Cambridge Junior College, Miraj, Sangli                                                                                                                                  2020    
+MSBSHSE Percentage: 74 / 100  
+
+Shree Mahankali High School, Kavathemahankal, Sangli                                                                                         2018    
+MSBSHSE Percentage: 89.20 / 100 
+
+Internship 
+
+VIEH Private LTD 
+Project: Personal Portfolio Website 
+Key Skills: HTML, CSS, JavaScript 
+
+YBI Foundation 
+Project: Cement Strength Analysis 
+Key skill: Python, Machine Learning, Classification algorithm 
+
+Projects 
+
+LoRa Based Smart Irrigation System                   Mentor – Prof Isaq Shikalgar        
+Key skill: IoT, LoRa Technology, Embedded C 
+
+PG Life Website (Ongoing) 
+Key Skills – Full Stack Web Development  
+
+Assessments / Certificates : 
+
+CyberOPS Associate (CISCO) 
+Key Skills- Cyber Security 
+
+Foundation Of Data Science (Infosys Springboard) 
+Key Skills- Pandas   NumPy     Matplotlib   
+
+Full Stack Web Development (Intern Shala)  
+Key Skills- HTML    CSS      JavaScript    React     MySQL     PHP       
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PERSONAL INTERESTS / HOBBIES: 
+
+Competitive Coding, Swimming,  Solo Travelling 
+
+WEB LINKS: 
+
+LinkedIn:  https://www.linkedin.com/in/shubham-saptasagare/ 
+GitHub: https://github.com/Shubham1213s 
+
+PERSONAL DETAILS:  
+
+Gender- Male                                                                                                            Known Languages- Marathi, Hindi, English. 
+
+Marital Status- Unmarried                                                                                      DOB- 20 OCT 2002 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    SANJANA RAJESH NAGDIVE 
+
+                                                                                       B.tech- Electronics Engineer-MITAOE  
+
+                                                                                        Ph: 9356754115                 
+
+                                                                                            Email: sanjana.nagdive@mitaoe.ac.in 
+
+                                                                                                                   Pune, Maharashtra,India 
+
+BRIEF OVERVIEW/ CAREER OBJECTIVE/ SUMMARY 
+
+   Highly motivated and dedicated individual looking for challenging experience and position with leadership quality               
+in your reputed company.  
+
+KEY EXPERTISE/SKILLS 
+
+Autocad      Fusion360      C language      Python          
+
+Soft skills:  Multitasking    Communications skills    Presentation skills 
+
+EDUCATION 
+
+   MIT Academy of Engineering (MITAOE)                                                                                                  2020-2024 
+
+   B.Tech- Electronics-MITAOE | CGPA: 8.90/10.00 
+
+   G.H. Raisoni Junior College , Hingna Nagpur                                                                                           2018-2019 
+
+   12th Graduatuion | Percentage: 82/100   
+
+   Central India Public School, Kamptee road, Nagpur                                                                                2017-2018 
+
+    10th | Percentage: 89/100 
+
+INTERNSHIPS 
+
+    HEXNBIT- Tevatron technologies pvt ltd                                                                    13th June,2022- 24th July,2022 
+
+    Key skills: 
+
+         Web designing      Frontend     JavaScript       HTML 
+
+    In this internship, we learnt how to design a web using HTML, java script and how to design a front end website for official  
+    work. We were also assigned small project based on the same to design self portfolio. 
+
+PROJECTS 
+
+     Designing a Syringe pump for medical use                                                              22nd Aug,2022- 12th March, 2023 
+
+     Key skills:     Motor workings    Precision controlling      
+
+     In this project we studies about working of Stepper motor, we studied about STM boards and their working, we       
+controlled motor and also worked on precision controlling.                                   
+
+    Designing Posture monitoring and correcting system                                                 12th Feb 2020- 23rd Dec, 2022 
+
+    Key skills:    Sensor learning     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this project, we worked with different sensors, we deigned our own sensor and we made the posture correcting 
+system in shortest possible time.  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+•  Founder at an NGO based in Nagpur 
+•  Core member in Dance club 
+•  Lippan-art Home decor selling side business 
+
+PERSONAL INTEREST/HOBBIES 
+
+•  Painting/Sketching 
+•  Writing poetries both Hindi/English 
+•  Dancing: styles like classical, Bollywood, belly dancing, contemporary, etc 
+
+WEB LINKS 
+
+•  Whatsapp: +91 9356754115 
+
+PERSONAL DETAILS 
+
+      Gender: Female                                                                              Date of birth: 16/03/2002 
+
+      Maritial Status: Unmarried                                                          Known languages: Hindi,English 
+
+     Current address: Manas Girls Hostel, Alandi, Pune                     Permanent Address: 155b Bhilgao, Nagpur      
+
+     Email: Sanjana.nagdive@mitaoe.ac.in                                           Phone number: +91 9356754115              
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aniket Satish Mane 
+Student 
+
+To work on a challenging job proﬁle which provides opportunity to enhance my technical skills and
+knowledge, this could provide me an insight into new aspects so that it would be helpful for my career. 
+
+aniketsmd310@gmail.com 
+
+9657387724 
+
+linkedin.com/in/aniket-mane-209b5117b 
+
+github.com/anndy25 
+
+WORK EXPERIENCE 
+
+TECHNICAL SKILLS 
+
+SDE Intern 
+Misui India Pvt Ltd 
+12/2021 - 02/2022,  
+Bengaluru, India 
+Misui India is an online eCommerce platform. We are revolutionizing the
+way the eCommerce platform works with a best-in-the-class team. 
+
+Achievements/Tasks 
+
+Built Services using Nodejs(Express Js). 
+
+C/C++ 
+
+Core Java 
+
+JavaScript 
+
+Python 
+
+JavaScript 
+
+Git 
+
+GitHub 
+
+React JS 
+
+Express JS 
+
+Spring Boot 
+
+MySQL 
+
+MongoDB 
+
+Bootstrap 
+
+Tailwind 
+
+HTML5 
+
+CSS 
+
+Worked on frontend part of project and created layout using
+React, Redux and tailwind technology. 
+
+Object-Oriented Programming 
+
+SDE Intern 
+TEN foundation 
+08/2021 - 11/2021,  
+TEN is a community based EduTech group whose objective is to provide
+quality learning and expertise by providing an opportunity to master skill
+sets . 
+
+Delhi, India 
+
+Achievements/Tasks 
+
+Complete weekly given task and report to the coordinator
+on daily basis 
+
+Create frontend of web applications using React JS. 
+
+SDE Intern 
+Exposys Data Labs 
+11/2021 - 11/2021,  
+Exposys Data Labs Labs is a stealth AI startup specializing in cutting
+edge AI technologies. 
+
+Bengaluru, India 
+
+Achievements/Tasks 
+
+Learned requirement of project technology. 
+
+Created frontend using React Framework and Redux.
+Developed software solution by studying information needs,
+conferring with users, studying system ﬂow, data access and
+work ﬂow. 
+
+EDUCATION 
+
+Bachelor of Engineering in E&TC 
+SCTR'S Pune Institute of Computer
+Technology 
+08/2020 - Present,  
+
+PERSONAL PROJECTS 
+
+Smart Garbage Monitoring System (01/2022 - 04/2022) 
+This project Garbage Monitoring system is a very innovative system
+which will help to keep the campus clean. This system monitors the
+garbage bins and informs about the level of garbage collected in
+the garbage bins on website 
+Website is built, to show the status to the user monitoring it. The
+web page gives a graphical view of the garbage bins and
+percentage of level of bin. When garbage level reachs the threshold
+level, server sends SMS to respective authority. 
+Website Link: https://xpress-iot.herokuapp.com/ 
+
+Echo Video Chat Webapp (09/2021 - 10/2021) 
+
+Echo is a web-based communication application developed in Node
+JS scripting language. This application establishes the one to one
+connection between two users connected via internet. It can be
+used by anyone to have video chat with friends, family, etc. 
+Website Link: : https://echo-video-chat-app.netlify.app 
+
+Blogging Site (02/2022 - 03/2022) 
+
+Online Blogging System is a perfect platform for students,
+teachers, institutional administrative purposes. Advanced web
+technology so that users can easily read and write blogs without
+any problems. 
+
+Image Gallery (08/2021 - 08/2021) 
+
+Image Gallery i s website which created using React JS . You search
+any image and download from the site. 
+Website: https://anndy25.github.io/Image_Gallery/ 
+
+9 CGPA 
+
+CERTIFICATE 
+
+Diploma in E&Tc 
+Dr. D. Y. Patil Polytechnic College, Akurdi 
+08/2017 - 12/2020,  
+
+94.76% 
+
+HTML, CSS, and Javascript for Web Developers by Johns
+Hopkins University (05/2021 - 06/2021) 
+
+SSC 
+Shri Fattechand Jain Vidyalaya 
+06/2007 - 03/2017,  
+
+INTERESTS 
+
+84.80% 
+
+Full Stack Web Development 
+
+                  HRUTUJA RAJENDRA HIWARKAR 
+
+                                          B.Tech. – Information Technology   
+                                                                                       -MITAOE 
+                                                                          Ph : +91-7517060949  
+                                                  Email : hrutuja.hiwarkar@mitaoe.ac.in 
+                                                                   Pune,  Maharashtra,  India  -  412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+A self motivated and result oriented IT engineer with strong and positive mindset looking to kickstart 
+my career in IT industry in data science domain that can help me realize my potential and eager to 
+learn, grow, explore new things.  Seeking for challenging opportunity and goal aspirations of your 
+esteemed organization by showcasing my skills and participating in each and every activities. 
+
+KEY EXPERTISE / SKILLS 
+
+Data Science 
+
+Artificial Intelligence 
+
+Machine Learning 
+
+DSA 
+
+CPP 
+
+DBMS 
+
+C  Programming 
+
+Python 
+
+Big data 
+
+Linux OS 
+
+Computer Network 
+
+EDUCATION 
+
+MIT  Academy  Of  Engineering (MITAOE) 
+
+B.Tech – Information Technology – MITAOE    |    CGPA : 8.92 / 10.00 
+
+Shivaji  Kanishta  Vidnyan  Mahavidyala, Gadchiroli 
+
+HSC   |    HSC – Science   |    State  Board    |   Percentage : 84.92 / 100.00 
+
+School  Of  Scholars, Gadchiroli 
+
+SSC   |    CBSE  Board    |   Percentage : 81.8 / 100.00 
+
+ 
+INTERNSHIPS 
+
+1)NETWORKING  INTERNSHIP  VIRTUAL  PROGRAM 
+
+  Key Skills :  
+
+Networking tools 
+
+Networking concepts 
+
+Cisco Packet Tracer 
+
+Programming languages 
+
+Internship was virtual and based on networking concepts and networking architecture , making 
+network connections with routers, switches and other tools along with building different topologies 
+and understanding how network works by knowing about IP addresses 
+
+2)AIML VIRTUAL INTERNSHIP PROGRAM  
+
+   Key Skills :  
+
+- 
+
+Artificial Intelligence 
+
+Machine Learning 
+
+Deep Learning 
+
+Python 
+
+The internship was virtual and based on core technologies such as artificial intelligence, data 
+mining, data modelling also some machine learning algorithms like ensemble learning, deep 
+learning, Reinforcement Learning, Natural Language Processing.  
+
+3)DATA ANALYTICS VIRTUAL INTERNSHIP PROGRAM  
+
+   Key Skills :     
+
+Data Science 
+
+Microsoft Excel 
+
+r 
+
+Machine Learning 
+
+Python 
+
+SQL 
+
+Data Visualization 
+
+It basically includes analysis part of data using tableau , powerbi ,types of analytics, different 
+models used, preparing and understanding of data, analysis using various tools, charts, plots, 
+graphs etc 
+
+PROJECTS 
+
+1)USED CAR PRICE PREDICTION 
+
+   Mentor : Manish Giri        |        Team Size : 4 
+
+   Key Skills :    
+
+Machine Learning  
+
+Requirement analysis 
+
+Collecting and analyzing 
+research papers 
+
+This is our current project on which we our working where we first collected and analyzed 
+research papers and worked on dataset, coding, modelling and deploying model in web app. 
+
+Team work 
+
+Web design 
+
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2) HAND GESTURE RECOGNITION SYSTEM  
+
+   Mentor : Shrikant Salve       |        Team Size : 3 
+
+Key Skills :     
+
+Open CV 
+
+Object detection 
+
+Image Processing 
+
+Python 
+
+Machine Learning 
+
+In this project we identified different hand gestures that human basically do and on basis of that 
+we automate our model accordingly using python code by using open cv library and operate the 
+laptop with help of those gestures, control and monitor the laptop. 
+
+3) BANK MANAGEMENT SYSTEM 
+
+    Team Size : 2 
+
+   Key Skills :   
+
+Big Data 
+
+HQL 
+
+Data visualisation 
+
+Hive 
+
+Hadoop 
+
+Project consist of creation of tables in mysql and importing tables from mysql to HDFS using sqoop 
+tool , also creating external tables in hive. On basis of this analysis of bank management system 
+was done and related with real life problems. 
+
+OTHER PROJECT WORKING ON  
+
+•  OLYMPICS DATA ANALYSIS 
+
+CERTIFICATIONS 
+
+1)AI-900 MICROSOFT AZURE AI FUNDAMENTALS 
+
+2)30 DAYS OF GOOGLE CLOUD PROGRAM 
+
+3)COMPETETIVE PROGRAMMING USING PYTHON 
+
+4)MANAGING BIG DATA IN CLUSTERS AND CLOUD STORAGE 
+
+  
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+EXTRA CURRICULAR ACTIVITIES 
+
+•  Worked as management team in nakshtra annual function held in college 
+•  Do marketing of  event held by mozilla group by contacting students for participation. 
+
+PERSONAL INTERESTS / HOBBIES 
+
+•  Singing 
+•  Travelling 
+•  Watching English movies 
+•  Reading 
+•  Writing 
+
+PERSONAL DETAILS 
+
+Gender : Female                                                                                                  Date of Birth : 26 Oct, 2002 
+
+Marital Status : Unmarried                                                    Known languages : Marathi, English, Hindi 
+
+Current Address : Tapkir nagar, near MITAOE                Permanent Address : Rampuri ward camp 
+
+College dehu phata, Alandi                                                                                                   area, Gadchiroli 
+
+Emails : hrutuja.hiwarkar@mitaoe.ac.in,                        Phone number : 7517060949 
+
+               hrutujahiwarkar26@gmail.com 
+
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pushkar Prasad Shepal 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-9503698093 
+Email: Pushkar.shepal@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY: 
+To  seek  an  internship  or  entry  level  position  as  an  Electronics  and  Telecommunication 
+engineer,  utilizing  and  upgrading  my  skills  in  Machine  learning,  Embedded  systems  by 
+working on hands – on projects and contributing to the growth of organization. 
+
+SKILLS 
+
+Python, Java, C, Embedded C, SQL, MATLAB, Simulink. 
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.95 / 10.00   
+NKT college of arts science and commerce, Thane, Maharashtra                                                       2020  
+12th MSBSHSE Percentage: 87 / 100.00  
+
+NES English medium high school, Bhiwandi, Thane                                                                                             2018 
+10th MSBSHSE Percentage: 92.0 / 100.00 
+
+Internship  
+
+RedXIntern 
+Key skill: Machine Learning 
+
+Projects 
+
+Table Detection using fast RCNN 
+Key skill: Deep learning, CNN architecture, TensorFlow, R-CNN, python. 
+Brain tumour detection using MATLAB 
+Key skill: Image processing, MATLAB Gui. 
+Credit card fraud detection system 
+Key Skill: Machine learning Algorithms, python, flask. 
+
+Assessments / Certificates : 
+
+Foundation in Data Science Infosys Springboard 
+Key skills: - Linear algebra, statistics and probability, NumPy’s, pandas, feature engineering 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Reading, watching movies and series 
+
+WEB LINKS: 
+
+LinkedIn : https://www.linkedin.com/in/pushkar-shepal/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arya Rishikesh Patil 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-7066696366 
+Email: arya.patil@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+Aiming  to  work  in  software  firm  to  utilize  my  knowledge  and  enabling  me  to  grow  while  fulfilling 
+organizational goals 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C, SQL, PowerBI, 3D Modelling  
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.29 / 10.00   
+
+Vivek Vardhini Vidyalaya & junior college, Pandharpur, Solapur                                                       2020  
+12th MSBSHSE Percentage: 84.62 / 100.00  
+
+Late Smt.B.G.Shanbhag Vidyalaya, Jalgaon, Jalgaon                                                                                             2018 
+10th MSBSHSE Percentage: 94.40 / 100.00 
+
+Internship  
+
+AICTE Virtual Internship 
+Palo alto Cybersecurity Virtual internship 
+Key skill: Cybersecurity, Fundamentals of cloud 
+
+Projects 
+
+Design and develop a system to maintain Data Integrity through Machine Learning 
+Key  skill:  IoT,  Cybersecurity,  Network  testing  tools  (Wireshark,  Ettercap,  Burp  suite,  kali  Linux  ), 
+Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Programming for Everybody  
+Skills: Python 
+CyberOps Associates 
+Skills: Cybersecurity 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Chess, Singing, Badminton 
+
+WEB LINKS: 
+
+LinkedIn :  https://www.linkedin.com/in/arya-patil2503/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JAYESH RAJPUT
++91 8104059695 ⋄ Pune, India
+jayeshrajput.in@gmail.com ⋄LinkedIn ⋄Github
+
+⋄
+
+OBJECTIVE
+
+Seeking internship roles in Data Science, Cloud Computing, and Software Development.
+
+EDUCATION
+
+B.Tech in Electronics and Telecommunication (Pursuing)
+MIT Academy of Engineering, 8.24 CGPA
+Relevant Coursework: Cloud Computing, Java Full stack Development
+Data Structures and Algorithms using C.
+
+SKILLS
+
+Expected Aug 2024
+
+Programming Languages
+Tools and Technologies
+Soft Skills
+
+Core Java, Python, SQL, HTML, CSS
+AWS, Linux, GIT, Github, Power BI, MYSQL, OOP, Figma
+Analytical Thinking, Design Thinking, Leadership, Collaborative Approach
+
+July 2022 - Sept 2022
+Remote, India
+
+July 2022 - Aug 2022
+Remote, India
+
+EXPERIENCE
+
+Student Intern
+Vois
+
+• Built NLP based Abstractive Text Summarization Model
+• Applied Python, Flask, HTML, CSS Git and Github.
+
+Student Trainee IPR - Beginner
+MIT Academy of Engineering
+
+• Learnt about Intellectual Property Rights, Copyrights.
+• Learnt about Patents and the process of filing it.
+• Studied various acts regarding Patents and Copyrights.
+
+PROJECTS
+
+Text Summarization by using NLP
+Built an NLP based abstractive text summariszation model. (Github Repository)
+
+Object Detection Using Faster RCNN (In Progress)
+Built a Deep Learning model that detects the object using various algorithms like
+ANN, CNN, RCNN and compared their efficiency. We used Cat vs Dog dataset to
+train and test the model.
+
+EXTRA-CURRICULAR ACTIVITIES
+
+• TY Class Representative in Student Council
+
+• Student Representative in ETSA (ETC Student Association)
+
+• Corporate Relations Training and Placement Coordinator SEE
+
+CERTIFICATIONS AND TRAINING
+
+AWS Certified Cloud Practitioner
+Microsoft Certified: Azure Fundamentals
+Microsoft Certified: AI Fundamentals
+Microsoft Certified: Data Fundamentals
+Google Cloud Certified Digital Leader
+
+Zensar ESD Program
+ICT Academy Data Analytics using Power BI
+FUEL Java Full Stack Development
+Udacity AWS Machine Learning Foundation
+
+JAYESH RAJPUT
++91 8104059695 ⋄ Pune, India
+jayeshrajput.in@gmail.com ⋄LinkedIn ⋄Github
+
+⋄
+
+OBJECTIVE
+
+Seeking internship roles in Data Science, Cloud Computing, and Software Development.
+
+EDUCATION
+
+B.Tech in Electronics and Telecommunication (Pursuing)
+MIT Academy of Engineering, 8.24 CGPA
+Relevant Coursework: Cloud Computing, Java Full stack Development
+Data Structures and Algorithms using C.
+
+SKILLS
+
+Expected Aug 2024
+
+Programming Languages
+Tools and Technologies
+Soft Skills
+
+Core Java, Python, SQL, HTML, CSS
+AWS, Linux, GIT, Github, Power BI, MYSQL, OOP, Figma
+Analytical Thinking, Design Thinking, Leadership, Collaborative Approach
+
+July 2022 - Sept 2022
+Remote, India
+
+July 2022 - Aug 2022
+Remote, India
+
+EXPERIENCE
+
+Student Intern
+Vois
+
+• Built NLP based Abstractive Text Summarization Model
+• Applied Python, Flask, HTML, CSS Git and Github.
+
+Student Trainee IPR - Beginner
+MIT Academy of Engineering
+
+• Learnt about Intellectual Property Rights, Copyrights.
+• Learnt about Patents and the process of filing it.
+• Studied various acts regarding Patents and Copyrights.
+
+PROJECTS
+
+Text Summarization by using NLP
+Built an NLP based abstractive text summariszation model. (Github Repository)
+
+Object Detection Using Faster RCNN (In Progress)
+Built a Deep Learning model that detects the object using various algorithms like
+ANN, CNN, RCNN and compared their efficiency. We used Cat vs Dog dataset to
+train and test the model.
+
+EXTRA-CURRICULAR ACTIVITIES
+
+• TY Class Representative in Student Council
+
+• Student Representative in ETSA (ETC Student Association)
+
+• Corporate Relations Training and Placement Coordinator SEE
+
+CERTIFICATIONS AND TRAINING
+
+AWS Certified Cloud Practitioner
+Microsoft Certified: Azure Fundamentals
+Microsoft Certified: AI Fundamentals
+Microsoft Certified: Data Fundamentals
+Google Cloud Certified Digital Leader
+
+Zensar ESD Program
+ICT Academy Data Analytics using Power BI
+FUEL Java Full Stack Development
+Udacity AWS Machine Learning Foundation
+
+                                                                    SANJANA RAJESH NAGDIVE 
+
+                                                                                       B.tech- Electronics Engineer-MITAOE  
+
+                                                                                        Ph: 9356754115                 
+
+                                                                                            Email: sanjana.nagdive@mitaoe.ac.in 
+
+                                                                                                                   Pune, Maharashtra,India 
+
+BRIEF OVERVIEW/ CAREER OBJECTIVE/ SUMMARY 
+
+   Highly motivated and dedicated individual looking for challenging experience and position with leadership quality               
+in your reputed company.  
+
+KEY EXPERTISE/SKILLS 
+
+Autocad      Fusion360      C language      Python          
+
+Soft skills:  Multitasking    Communications skills    Presentation skills 
+
+EDUCATION 
+
+   MIT Academy of Engineering (MITAOE)                                                                                                  2020-2024 
+
+   B.Tech- Electronics-MITAOE | CGPA: 8.90/10.00 
+
+   G.H. Raisoni Junior College , Hingna Nagpur                                                                                           2018-2019 
+
+   12th Graduatuion | Percentage: 82/100   
+
+   Central India Public School, Kamptee road, Nagpur                                                                                2017-2018 
+
+    10th | Percentage: 89/100 
+
+INTERNSHIPS 
+
+    HEXNBIT- Tevatron technologies pvt ltd                                                                    13th June,2022- 24th July,2022 
+
+    Key skills: 
+
+         Web designing      Frontend     JavaScript       HTML 
+
+    In this internship, we learnt how to design a web using HTML, java script and how to design a front end website for official  
+    work. We were also assigned small project based on the same to design self portfolio. 
+
+PROJECTS 
+
+     Designing a Syringe pump for medical use                                                              22nd Aug,2022- 12th March, 2023 
+
+     Key skills:     Motor workings    Precision controlling      
+
+     In this project we studies about working of Stepper motor, we studied about STM boards and their working, we       
+controlled motor and also worked on precision controlling.                                   
+
+    Designing Posture monitoring and correcting system                                                 12th Feb 2020- 23rd Dec, 2022 
+
+    Key skills:    Sensor learning     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this project, we worked with different sensors, we deigned our own sensor and we made the posture correcting 
+system in shortest possible time.  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+•  Founder at an NGO based in Nagpur 
+•  Core member in Dance club 
+•  Lippan-art Home decor selling side business 
+
+PERSONAL INTEREST/HOBBIES 
+
+•  Painting/Sketching 
+•  Writing poetries both Hindi/English 
+•  Dancing: styles like classical, Bollywood, belly dancing, contemporary, etc 
+
+WEB LINKS 
+
+•  Whatsapp: +91 9356754115 
+
+PERSONAL DETAILS 
+
+      Gender: Female                                                                              Date of birth: 16/03/2002 
+
+      Maritial Status: Unmarried                                                          Known languages: Hindi,English 
+
+     Current address: Manas Girls Hostel, Alandi, Pune                     Permanent Address: 155b Bhilgao, Nagpur      
+
+     Email: Sanjana.nagdive@mitaoe.ac.in                                           Phone number: +91 9356754115              
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gireesh Tembhurnikar 
+
+B.Tech. - Mechanical Engineering 
+-MITAOE 
+Ph: +91-9764487292 
+ Email: gireesh.tembhurnikar@mitaoe.ac.in 
+Pune, Maharashtra, India – 411006 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY                                                                                        .   
+
+To use my skills to achieve desired  and beneficial result for organization. To seek job that will 
+
+ Enhance and improve my ability to work in professional environment 
+
+KEY EXPERTISE / SKILLS                                                                                                                                          .      
+
+AUTOCAD         FUSION360          CATIA V5        MS OFFICE      MS EXCEL  
+
+EDUCATION                                                                                                                                                              . 
+
+MIT Academy Of Engineering 
+
+B.Tech- Mechanical Engineering-MITAOE | CGPA:7.87/10.00 
+
+Dinanath junior college,Nagpur 
+
+12th|HSC-Compuer Science|Percentage:70/100 
+
+G.N.H.S. Gondiya 
+
+10th|SSC|Percentage:92.6/100 
+
+INTERNSHIPS                                                                                                                                                            . 
+
+PROJECTS                                                                                                                                                                  . 
+
+Face recognition of Cow/Buffalo using Machine learning 
+
+Mentor: Prof. Abhijeet Malge Sir       
+
+Key Skills: Python,Ml,AI 
+
+ 
+ 
+                                                                                  
+ 
+ 
+ 
+                                                                         
+ 
+ 
+ASSESMENTS / CERTIFICATIONS                                                                                                                           . 
+
+PERSONAL INTERESTS / HOBBIES                                                                                                                         . 
+
+Playing Outdoor Games 
+
+Singing 
+
+WEB LINKS / IMs                                                                                                                                                     . 
+
+Whats App: 9764487292 
+
+Linked in: https://www.linkedin.com/in/gireesh-tembhurnikar-5a4532n 
+
+PERSONAL DETAILS                                                                                                                                                . 
+
+Gender: Male 
+
+Marital Status: Unmarried 
+
+Current Address: Dehu Phata, Alandi-412105  
+
+Date Of Birth: 25/01/2001 
+
+Known Language: Marathi, English, Hindi 
+
+Permanent Address: Kumbhare Nagar Nana Chowk Gondiya-441601, Maharashtra. 
+
+                                                                                                                       
+           Yashraj Patil 
+
+B.Tech. – Mechanical Engineering 
+Minor Degree : Cloud Computing 
+Ph: +91 7517428615 
+Email: yashraj.patil@mitaoe.ac.in 
+Pune, Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+
+A goal driven individual with Certified Engineering Skills, I am currently looking for job opportunities with growth 
+focused companies. My objective is to apply my skill set to enhance the company's performance while also having the 
+opportunity to cultivate and enhance my own capabilities 
+
+KEY EXPERTISE/SKILLS 
+
+Languages :  Core Java, C, Python, HTML, CSS, PHP, Javascript and Matlab 
+Database:  MySQL 
+Computer Aided Design : AutoCad , Fusion 360 and Catia 
+Professional Skills : Design Thinking, Teamwork, Leadership, Eye For Detail and Time Management 
+
+EDUCATION 
+
+MIT Academy of Engineering, Alandi, Pune                                                                                                                2020 -2024
+
+B.Tech. – Mechanical  Engineering | CGPA: 9.26  (Till Sem 5) 
+Minor Degree : Cloud Computing 
+
+ASM Group of Institutes, Chinchwad, Pune  
+
+12th | HSC | Percentage: 77.54/100 
+
+                                                                                  2020                                                                                                                                                    
+
+Podar International School, Chakan, Pune                                                                                                                          2018             
+
+10th | CBSE | Percentages: 91.60/100 
+
+EXPERIENCE 
+
+Research Intern                                                                                                                                                           June-July 2022 
+Automotive Research Association Of India, Pune 
+1. 
+2.  Study of Cycle and Calendar Life Of Lithium Ion Batteries. 
+3.  Conducted Extensive Literature Survey on Cycle Life Analysis of Batteries. 
+
+ Interned at Technology Group which is responsible for Research And Development of the Organization 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+                                                                              
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECTS 
+
+ University Automation System 
+Built a University Automation System using HTML, CSS, Javascript and PHP My Admin to manage all the university 
+activities in a hassle free manner using a centralized digital platform 
+
+Health Information Exchange using Blockchain 
+Developed a Health Information Exchange system using Blockchain concepts. Worked on Metamask, Ganache, HTML, 
+CSS, JavaScript,React and Node Js.The main aim of the project was to secure health records so patients could manage 
+it’s access for different users. 
+
+CERTIFICATIONS 
+
+Feb 2023 : Cyberops Associate 
+Issuing Authority: Cisco Networking Academy 
+
+Jan 2023 : AWS Academy Cloud Architecting 
+Issuing Authority: AWS 
+
+Nov 2022 : Project Management Fundamentals 
+Issuing Authority: IBM 
+
+Sep 2022 : The Complete Hydraulic Course 
+Issuing Authority: Udemy 
+
+Aug 2022 : Azure Data Fundamentals 
+Issuing Authority: Microsoft 
+
+CO-CURRICULAR ACTIVITIES AND AWARDS 
+
+o  Technical Member Hitchhakers  Club MITAOE 
+o  Academic Excellence Award MITAOE Second Year (2021-2022) 
+o  Academic Excellence Award Podar International School (2017-2018 ) 
+o  Most Disciplined Student Award Podar International School (2017-2018) 
+
+PERSONAL INTERESTS / HOBBIES 
+
+o  Reading 
+o  Blogging 
+o  Travel 
+o  Music 
+o  Cricket 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WEB LINKS / IMs 
+
+o  LinkedIn :  https://www.linkedin.com/in/yashraj-patil-861319200/ 
+o  Twitter:   https://twitter.com/yashrajpatil25?t=LMvrw4i7SCiOPRspKstnnQ&s=35 
+o   WhatsApp:  +91 7517428615 
+
+PERSONAL DETAILS 
+
+Gender: Male 
+
+Marital Status: Unmarried 
+
+Emails:  yashraj.patil@mitaoe.ac.in  and yashrajpatil253@gmail.com  
+
+Date of Birth: March 25, 2002 
+Known Languages: English, Hindi And Marathi 
+Permanent Address: Building No B4 Flat No 506 Sara City, Chakan, Pune 410501 
+
+Phone Number: +91-7517428615 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Yashraj Patil 
+
+B.Tech. – Mechanical Engineering 
+Minor Degree : Cloud Computing 
+Ph: +91 7517428615 
+Email: yashraj.patil@mitaoe.ac.in 
+Pune, Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+
+A goal driven individual with Certified Engineering Skills, I am currently looking for job opportunities with growth 
+focused companies. My objective is to apply my skill set to enhance the company's performance while also having the 
+opportunity to cultivate and enhance my own capabilities 
+
+KEY EXPERTISE/SKILLS 
+
+Languages :  Core Java, C, Python, HTML, CSS, PHP, Javascript and Matlab 
+Database:  MySQL 
+Computer Aided Design : AutoCad , Fusion 360 and Catia 
+Professional Skills : Design Thinking, Teamwork, Leadership, Eye For Detail and Time Management 
+
+EDUCATION 
+
+MIT Academy of Engineering, Alandi, Pune                                                                                                                2020 -2024
+
+B.Tech. – Mechanical  Engineering | CGPA: 9.26  (Till Sem 5) 
+Minor Degree : Cloud Computing 
+
+ASM Group of Institutes, Chinchwad, Pune  
+
+12th | HSC | Percentage: 77.54/100 
+
+                                                                                  2020                                                                                                                                                    
+
+Podar International School, Chakan, Pune                                                                                                                          2018             
+
+10th | CBSE | Percentages: 91.60/100 
+
+EXPERIENCE 
+
+Research Intern                                                                                                                                                           June-July 2022 
+Automotive Research Association Of India, Pune 
+1. 
+2.  Study of Cycle and Calendar Life Of Lithium Ion Batteries. 
+3.  Conducted Extensive Literature Survey on Cycle Life Analysis of Batteries. 
+
+ Interned at Technology Group which is responsible for Research And Development of the Organization 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+                                                                              
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECTS 
+
+ University Automation System 
+Built a University Automation System using HTML, CSS, Javascript and PHP My Admin to manage all the university 
+activities in a hassle free manner using a centralized digital platform 
+
+Health Information Exchange using Blockchain 
+Developed a Health Information Exchange system using Blockchain concepts. Worked on Metamask, Ganache, HTML, 
+CSS, JavaScript,React and Node Js.The main aim of the project was to secure health records so patients could manage 
+it’s access for different users. 
+
+CERTIFICATIONS 
+
+Feb 2023 : Cyberops Associate 
+Issuing Authority: Cisco Networking Academy 
+
+Jan 2023 : AWS Academy Cloud Architecting 
+Issuing Authority: AWS 
+
+Nov 2022 : Project Management Fundamentals 
+Issuing Authority: IBM 
+
+Sep 2022 : The Complete Hydraulic Course 
+Issuing Authority: Udemy 
+
+Aug 2022 : Azure Data Fundamentals 
+Issuing Authority: Microsoft 
+
+CO-CURRICULAR ACTIVITIES AND AWARDS 
+
+o  Technical Member Hitchhakers  Club MITAOE 
+o  Academic Excellence Award MITAOE Second Year (2021-2022) 
+o  Academic Excellence Award Podar International School (2017-2018 ) 
+o  Most Disciplined Student Award Podar International School (2017-2018) 
+
+PERSONAL INTERESTS / HOBBIES 
+
+o  Reading 
+o  Blogging 
+o  Travel 
+o  Music 
+o  Cricket 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WEB LINKS / IMs 
+
+o  LinkedIn :  https://www.linkedin.com/in/yashraj-patil-861319200/ 
+o  Twitter:   https://twitter.com/yashrajpatil25?t=LMvrw4i7SCiOPRspKstnnQ&s=35 
+o   WhatsApp:  +91 7517428615 
+
+PERSONAL DETAILS 
+
+Gender: Male 
+
+Marital Status: Unmarried 
+
+Emails:  yashraj.patil@mitaoe.ac.in  and yashrajpatil253@gmail.com  
+
+Date of Birth: March 25, 2002 
+Known Languages: English, Hindi And Marathi 
+Permanent Address: Building No B4 Flat No 506 Sara City, Chakan, Pune 410501 
+
+Phone Number: +91-7517428615 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+Aryan Awatare  
+B.Tech. – Civil Engineering 
+   MITAOE 
+Ph: +91 9699244267 
+Email: aryan.awatare@mitaor.ac.in 
+Pune Maharashtra, India - 412105 
+
+BRIEF OVERVIEW/CAREER OBJECTIVE/SUMMARY 
+A position with a progressive company that will fully utilize my skills and offers opportunities for 
+continuous professional development.  
+
+KEY EXPERTISE/SKILLS 
+AUTOCAD | REVIT | ETABS | MS EXCEL | JAVA | PYTHON | CLOUD COMPUTING | OPEN ROAD | 
+Open Studio | One Click LCA 
+
+EDUCATION 
+Pursuing MIT Academy Of ENGINEERING(MIT-AOE)                                                                                                  2024 
+
+B.TECH CIVIL ENGINEERING | CGPA – 7.91 
+
+MEJAR HEMANT JAKTE , NAGPUR                                                                                                                                 2020 
+
+12 | HSC | PERCENTAGE 72/100 
+
+ST XAVIER’S HIGH SCHOOL, NAGPUR                                                                                                                            2018   
+
+10 | CBSE | PERCENTAGE 77/100 
+
+PROJECTS 
+Sustainability analysis of Residential buildings using BIM tools  CED/LCA                               2 August 2022-10 May 2024 
+
+MENTOR: Dhananjay Bhosale   |   Team Size : 4  
+
+Key Skills: Sustainability Analysis  | BIM Software’s | Team Work |  
+
+In this project, we are working on reducing and analyzing the CED (Cumulative Energy Demand ) and LCA (life Cycle 
+Assessment ) using BIM Software like Open Studio and One Click LCA 
+
+Safety Management In Building Project  
+
+MENTOR: Manish Khandare  |   Team Size : 4  
+
+Key Skills: Management Skills  | Team Work |  
+
+In this project we worked on the various practices done in construction industry related to safety 
+
+ASSESSMENTS/CERTIFICATIONS 
+IYMC Exam  
+
+Position :- Bronze Medal  
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills | 
+
+This was an International conducted by IYMC (International youth math challenge ) exam on maths which involves 
+various questions which involved critical thinking and analytical skills  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cloud Computing  
+
+Cloud Practitioner :- Google Cloud Practitioner 
+
+Key Skills :- Analytical Skills | Critical Thinking | Problem Solving Skills |Coding Skills |Technical Skills | 
+
+This was Cloud Computing Program which involve solving problems and task given by google cloud and after 
+completing the tasks we got goodies from google cloud  
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Section Head of College Magazine (2022-2023) 
+
+3rd place in Inter Department Chess (Rating 1300) (2023) 
+
+1 place in Inter Department Football Tournament (2022,2023) 
+
+Awarded the best player of Tournament (Football )  
+
+Participated in IMUN Conference (2022) 
+
+My article was published in college magazine (2022-2023) 
+
+3rd place in SCET Chess Tournament  (Rating 1300) (2022) 
+
+Participated in Space Technology and Space Applications organized by IIRS Dehradun (2023) 
+
+PERSONAL INTERESTS/HOBBIES 
+
+Playing Chess  
+
+Solving Maths Problems  
+
+Playing Football  
+
+WEB LINKS/IMs 
+
+WhatsApp – 9699244267 
+
+LinkedIn - https://www.linkedin.com/in/aryan-awatare-06402423b/ 
+
+PERSONAL DETAILS 
+
+Gender -   Male 
+
+Martial Status – Unmarried  
+
+Address – Good Luck Boys Hostel Alandi Pune Maharashtra 412105 
+
+Email – aryan.awatare@mitaoe.ac.in  |  aryanawatare58@gmail.com 
+
+Date OF Birth –20/11/2001 
+
+Known Languages – English | Hindi | Marathi  
+
+Permanent Address –  261 Nandanwan Colony Nagpur 440024 
+
+Contact Details - 9699244267 
+
+KE/SKILLS 
+
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arya Rishikesh Patil 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-7066696366 
+Email: arya.patil@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+Aiming  to  work  in  software  firm  to  utilize  my  knowledge  and  enabling  me  to  grow  while  fulfilling 
+organizational goals 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C, SQL, PowerBI, 3D Modelling  
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.29 / 10.00   
+
+Vivek Vardhini Vidyalaya & junior college, Pandharpur, Solapur                                                       2020  
+12th MSBSHSE Percentage: 84.62 / 100.00  
+
+Late Smt.B.G.Shanbhag Vidyalaya, Jalgaon, Jalgaon                                                                                             2018 
+10th MSBSHSE Percentage: 94.40 / 100.00 
+
+Internship  
+
+AICTE Virtual Internship 
+Palo alto Cybersecurity Virtual internship 
+Key skill: Cybersecurity, Fundamentals of cloud 
+
+Projects 
+
+Design and develop a system to maintain Data Integrity through Machine Learning 
+Key  skill:  IoT,  Cybersecurity,  Network  testing  tools  (Wireshark,  Ettercap,  Burp  suite,  kali  Linux  ), 
+Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Programming for Everybody  
+Skills: Python 
+CyberOps Associates 
+Skills: Cybersecurity 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Chess, Singing, Badminton 
+
+WEB LINKS: 
+
+LinkedIn :  https://www.linkedin.com/in/arya-patil2503/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arya Rishikesh Patil 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-7066696366 
+Email: arya.patil@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+Aiming  to  work  in  software  firm  to  utilize  my  knowledge  and  enabling  me  to  grow  while  fulfilling 
+organizational goals 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C, SQL, PowerBI, 3D Modelling  
+
+Education 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                          2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.29 / 10.00   
+
+Vivek Vardhini Vidyalaya & junior college, Pandharpur, Solapur                                                       2020  
+12th MSBSHSE Percentage: 84.62 / 100.00  
+
+Late Smt.B.G.Shanbhag Vidyalaya, Jalgaon, Jalgaon                                                                                             2018 
+10th MSBSHSE Percentage: 94.40 / 100.00 
+
+Internship  
+
+AICTE Virtual Internship 
+Palo alto Cybersecurity Virtual internship 
+Key skill: Cybersecurity, Fundamentals of cloud 
+
+Projects 
+
+Design and develop a system to maintain Data Integrity through Machine Learning 
+Key  skill:  IoT,  Cybersecurity,  Network  testing  tools  (Wireshark,  Ettercap,  Burp  suite,  kali  Linux  ), 
+Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Programming for Everybody  
+Skills: Python 
+CyberOps Associates 
+Skills: Cybersecurity 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Chess, Singing, Badminton 
+
+WEB LINKS: 
+
+LinkedIn :  https://www.linkedin.com/in/arya-patil2503/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         Prem Gajanan Lohar 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010091147 
+Email: prem.lohar@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+An ambitious coding aspirant  keen on acquiring new skills and actualize them, hoping to further contribute in the 
+organization’s as well as personal growth with a drive to persevere with a humble and vibrant outlook. 
+
+KEY EXPERTISE / SKILLS 
+
+Python, Java, C++, Machine Learning, MySQL, DSA, OOPS 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 7.68 / 10.00   
+
+Bhaskaracharya Junior College, Satara-Parisar, Aurangabad                                                                                          2020  
+12th MSBSHSE Percentage: 75.85 / 100.00  
+
+Indira Gandhi Madhyamik Vidyalay, Dharangaon, Jalgaon                                                                                              2018 
+10th MSBSHSE Percentage: 92.40 / 100.00 
+
+Internship 
+
+Infosys Springboard Internship 
+Project : GANs for CVD (Colour Vision Deficiency) 
+Key skill: Python, Machine Learning, Deep Learning, Image processing 
+
+Projects 
+
+Amazon Echo Sentiment Analysis Using NLP 
+
+➢  The main aim of this project is to get analysis of Costumer’s review on product. 
+➢ 
+
+I develop a ML model through which I gathered the key point and show it in Cloud Image. (Like Good, bad, 
+durable, easy to use, etc) 
+
+Key skill: Python, NLP, Machine learning algorithm 
+
+Assessments / Certificates : 
+
+Foundation Of Data Science (by Infosys Springboard) 
+Google IT Automation Certification (by Coursera) 
+
+PERSONAL INTERESTS / HOBBIES: 
+
+Playing, Reading, Coding, Problem Solving 
+
+WEB LINKS: 
+
+LinkedIn :  www.linkedin.com/in/premlohar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                     Shubham Santram Saptasagare 
+B.Tech. - Electronics & Telecommunication Engineering 
+MIT Academy of Engineering 
+Ph: +91-8010215831 
+Email: Shubham.saptasagare@mitaoe.ac.in 
+Pune, Maharashtra, India – 412105 
+
+BRIEF OVERVIEW / CAREER OBJECTIVE / SUMMARY 
+
+Looking for an entry-level position in a dynamic organization where my knowledge of web development and coding 
+will contribute to achieving the company’s goals. 
+
+KEY EXPERTISE / SKILLS 
+
+ HTML      CSS       JavaScript      PHP      MySQL     React      C++      Python 
+
+Education 
+
+Savitribai Phule Pune University                                                                                                                                      2020 - 2024  
+B.Tech. - Electronics & Telecommunication Engineering - MITAOE | CGPA: 8.5 / 10.00   
+
+Cambridge Junior College, Miraj, Sangli                                                                                                                                  2020    
+MSBSHSE Percentage: 74 / 100  
+
+Shree Mahankali High School, Kavathemahankal, Sangli                                                                                         2018    
+MSBSHSE Percentage: 89.20 / 100 
+
+Internship 
+
+VIEH Private LTD 
+Project: Personal Portfolio Website 
+Key Skills: HTML, CSS, JavaScript 
+
+YBI Foundation 
+Project: Cement Strength Analysis 
+Key skill: Python, Machine Learning, Classification algorithm 
+
+Projects 
+
+LoRa Based Smart Irrigation System                   Mentor – Prof Isaq Shikalgar        
+Key skill: IoT, LoRa Technology, Embedded C 
+
+PG Life Website (Ongoing) 
+Key Skills – Full Stack Web Development  
+
+Assessments / Certificates : 
+
+CyberOPS Associate (CISCO) 
+Key Skills- Cyber Security 
+
+Foundation Of Data Science (Infosys Springboard) 
+Key Skills- Pandas   NumPy     Matplotlib   
+
+Full Stack Web Development (Intern Shala)  
+Key Skills- HTML    CSS      JavaScript    React     MySQL     PHP       
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PERSONAL INTERESTS / HOBBIES: 
+
+Competitive Coding, Swimming,  Solo Travelling 
+
+WEB LINKS: 
+
+LinkedIn:  https://www.linkedin.com/in/shubham-saptasagare/ 
+GitHub: https://github.com/Shubham1213s 
+
+PERSONAL DETAILS:  
+
+Gender- Male                                                                                                            Known Languages- Marathi, Hindi, English. 
+
+Marital Status- Unmarried                                                                                      DOB- 20 OCT 2002 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
